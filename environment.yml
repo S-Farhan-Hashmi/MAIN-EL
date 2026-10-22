@@ -1,0 +1,30 @@
+name: vv-watershed
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely
+  - rasterio
+  - rioxarray
+  - xarray
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - xgboost
+  - statsmodels
+  - scipy
+  - pulp
+  - sqlalchemy
+  - geoalchemy2
+  - psycopg2
+  - jupyterlab
+  - matplotlib
+  - folium
+  - python-dotenv
+  - pip
+  - pip:
+      - fastapi
+      - uvicorn
+      - streamlit
+      - paho-mqtt

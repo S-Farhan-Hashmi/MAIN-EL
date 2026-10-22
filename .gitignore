@@ -1,0 +1,11 @@
+data/raw/*
+data/interim/*
+data/processed/*
+!data/*/.gitkeep
+*.tif
+*.gpkg
+*.parquet
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
