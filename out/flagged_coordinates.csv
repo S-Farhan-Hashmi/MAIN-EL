@@ -1,0 +1,39 @@
+split,date,lake_name,lat,lon,coord_source
+train,2025-04-01,River Arkavathi At Tippagondanahalli Reservoir,,,missing
+train,2025-04-01,Puttenahalli Lake,,,ambiguous
+train,2025-04-01,Arakere Lake,,,missing
+train,2025-04-01,Hebbal Lake,,,missing
+train,2025-04-01,Nagavara Lake,,,missing
+train,2025-04-01,Gangondanahalli Lake,,,missing
+train,2025-04-01,Ramammana Kere,,,missing
+train,2025-04-01,Kammasandra Lake,,,missing
+train,2025-04-01,Alur Lake,,,missing
+train,2025-04-01,"Shettihalli Lake, Mallasandra Gudde Lake Bengaluru",,,missing
+train,2025-04-01,"Ulsoor Lake Near Kalyani,Bengaluru",12.585892,77.371154,lookup
+train,2025-04-01,"Byrasandra Upper Lake,Bengaluru",12.554835,77.354549,lookup
+train,2025-08-01,Karihobanahalli Lake,,,missing
+train,2024-12-01,"River Dakshina Pinakini Near Mugalur Bridge Mugalur, Bengaluru",,,missing
+train,2024-12-01,Jungu Kere (Devarabeesanahalli Lake),,,missing
+train,2024-12-01,Jakksandra Lake (Kasavanahalli Lake ),,,missing
+train,2025-02-01,River Arkavathi At Tippagonda-halli Reservoir,,,missing
+train,2025-02-01,Karihoba-halli Lake,,,missing
+train,2025-02-01,Putte-halli Lake,,,ambiguous
+train,2025-02-01,-gavara Lake,,,missing
+train,2025-02-01,Gangonda-halli Lake,,,missing
+train,2025-02-01,Ramamma- Kere,,,missing
+train,2023-07-01,HEBBAL LAKE,,,missing
+train,2023-07-01,NAGAVARA LAKE,,,missing
+train,2023-07-01,VEERAPURA TANK,,,missing
+train,2023-07-01,PUTTENAHALLI LAKE,,,ambiguous
+train,2023-07-01,KARIHOBANAHALLI LAKE,,,missing
+train,2023-07-01,ARAKERE LAKE,,,missing
+train,2023-07-01,ALUR LAKE,,,missing
+train,2023-07-01,MANGAMANAPALYA LAKE(SWARANA KUNTE,,,missing
+train,2023-07-01,MADHURE TANK,,,missing
+train,2023-07-01,RAMAMMANA KERE,,,missing
+train,2023-07-01,Kogilu Lake,,,missing
+train,2025-03-01,Veerapura Tank,,,missing
+train,2025-03-01,Mydala Tank,,,missing
+train,2025-03-01,Madhure Tank,,,missing
+train,2025-05-01,(D Kodr dPaunreakmk uLnadkie L )ake,,,missing
+test,2026-07-01,Arashinakunte Kere,12.661463,77.193771,pdf
