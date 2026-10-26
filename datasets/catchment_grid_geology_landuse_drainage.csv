@@ -1,0 +1,804 @@
+﻿cell_id,centroid_lat,centroid_lon,x_utm,y_utm,dist_to_kengeri_stp_km,dominant_lithology,geology_coverage_pct,dolerite_dyke_present,builtup_pct,drain_density_all_km_per_km2,stream_river_density_km_per_km2,dist_to_nearest_stream_river_m,dist_to_nearest_drain_m,nearest_stp,dist_to_nearest_stp_km,data_gaps
+G1131,12.984789,77.468235,767750.0,1436750.0,7.97,,0.0,,5.5,2.22,0.0,4763.0,70.0,Nagasandra Ph-I STP (20 MLD),6.94,geology missing/partial (outside Bhukosh sheet 57H09)
+G1231,12.984745,77.472841,768250.0,1436750.0,7.83,,0.0,,43.8,1.27,0.0,4608.0,215.0,Nagasandra Ph-I STP (20 MLD),6.77,geology missing/partial (outside Bhukosh sheet 57H09)
+G1331,12.984701,77.477447,768750.0,1436750.0,7.72,,0.0,,65.4,0.03,0.0,4446.0,249.0,Nagasandra Ph-I STP (20 MLD),6.63,geology missing/partial (outside Bhukosh sheet 57H09)
+G1431,12.984657,77.482053,769250.0,1436750.0,7.64,,0.0,,59.0,0.0,0.0,3947.0,383.0,Nagasandra Ph-I STP (20 MLD),6.53,geology missing/partial (outside Bhukosh sheet 57H09)
+G1531,12.984613,77.486659,769750.0,1436750.0,7.6,,0.0,,52.7,0.0,0.0,3448.0,463.0,Nagasandra Ph-I STP (20 MLD),6.47,geology missing/partial (outside Bhukosh sheet 57H09)
+G1631,12.984569,77.491266,770250.0,1436750.0,7.59,,0.0,,29.1,1.01,0.0,2949.0,44.0,V. Valley STP (150 MLD),6.31,geology missing/partial (outside Bhukosh sheet 57H09)
+G1731,12.984525,77.495872,770750.0,1436750.0,7.61,,0.0,,1.7,0.0,0.0,2451.0,420.0,V. Valley STP (150 MLD),6.08,geology missing/partial (outside Bhukosh sheet 57H09)
+G1831,12.984481,77.500478,771250.0,1436750.0,7.66,Grey Hornblende Biotite Gneiss,60.4,TRUE,27.3,2.32,0.0,1954.0,9.0,V. Valley STP (150 MLD),5.88,geology partial
+G1931,12.984436,77.505084,771750.0,1436750.0,7.75,Grey Hornblende Biotite Gneiss,100.0,TRUE,71.0,0.0,0.0,1458.0,339.0,V. Valley STP (150 MLD),5.72,
+G2031,12.984392,77.50969,772250.0,1436750.0,7.87,Grey Hornblende Biotite Gneiss,100.0,TRUE,43.9,1.25,0.0,967.0,120.0,V. Valley STP (150 MLD),5.59,
+G0930,12.980359,77.458978,766750.0,1436250.0,7.87,,0.0,,,0.93,0.0,4784.0,228.0,Nagasandra Ph-I STP (20 MLD),7.81,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1030,12.980315,77.463584,767250.0,1436250.0,7.67,,0.0,,,3.73,0.0,4521.0,40.0,Nagasandra Ph-I STP (20 MLD),7.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1130,12.980272,77.46819,767750.0,1436250.0,7.49,,0.0,,0.0,0.68,0.0,4299.0,250.0,Nagasandra Ph-I STP (20 MLD),7.41,geology missing/partial (outside Bhukosh sheet 57H09)
+G1230,12.980228,77.472796,768250.0,1436250.0,7.34,,0.0,,7.9,2.51,0.0,4127.0,6.0,V. Valley STP (150 MLD),7.15,geology missing/partial (outside Bhukosh sheet 57H09)
+G1330,12.980184,77.477402,768750.0,1436250.0,7.23,,0.0,,49.6,0.0,0.0,4010.0,423.0,V. Valley STP (150 MLD),6.8,geology missing/partial (outside Bhukosh sheet 57H09)
+G1430,12.98014,77.482008,769250.0,1436250.0,7.15,,0.0,,58.2,1.94,0.0,3907.0,94.0,V. Valley STP (150 MLD),6.47,geology missing/partial (outside Bhukosh sheet 57H09)
+G1530,12.980096,77.486615,769750.0,1436250.0,7.1,,0.0,,62.5,0.0,0.0,3416.0,378.0,V. Valley STP (150 MLD),6.16,geology missing/partial (outside Bhukosh sheet 57H09)
+G1630,12.980052,77.491221,770250.0,1436250.0,7.09,,0.0,,0.3,2.21,0.0,2929.0,111.0,V. Valley STP (150 MLD),5.88,geology missing/partial (outside Bhukosh sheet 57H09)
+G1730,12.980008,77.495827,770750.0,1436250.0,7.11,,0.0,,46.6,0.53,0.0,2443.0,293.0,V. Valley STP (150 MLD),5.63,geology missing/partial (outside Bhukosh sheet 57H09)
+G1830,12.979963,77.500433,771250.0,1436250.0,7.17,Grey Hornblende Biotite Gneiss,59.4,TRUE,56.4,3.1,0.0,1958.0,160.0,V. Valley STP (150 MLD),5.42,geology partial
+G1930,12.979919,77.505039,771750.0,1436250.0,7.26,Grey Hornblende Biotite Gneiss,100.0,TRUE,87.2,2.48,0.0,1463.0,108.0,V. Valley STP (150 MLD),5.24,
+G2030,12.979875,77.509645,772250.0,1436250.0,7.39,Grey Hornblende Biotite Gneiss,100.0,TRUE,67.1,1.75,0.0,973.0,85.0,V. Valley STP (150 MLD),5.11,
+G2130,12.97983,77.514251,772750.0,1436250.0,7.54,Grey Hornblende Biotite Gneiss,100.0,TRUE,57.4,0.0,0.0,498.0,534.0,V. Valley STP (150 MLD),5.02,
+G2230,12.979786,77.518856,773250.0,1436250.0,7.73,Grey Hornblende Biotite Gneiss,100.0,TRUE,16.6,2.21,2.21,54.0,426.0,V. Valley STP (150 MLD),4.98,
+G2330,12.979741,77.523462,773750.0,1436250.0,7.94,Grey Hornblende Biotite Gneiss,100.0,TRUE,33.7,0.04,0.0,425.0,281.0,V. Valley STP (150 MLD),4.99,
+G0729,12.975929,77.449721,765750.0,1435750.0,7.94,,0.0,,,3.89,0.0,5059.0,99.0,Kengeri STP (60 MLD),7.94,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0829,12.975885,77.454327,766250.0,1435750.0,7.67,,0.0,,,0.28,0.0,4706.0,311.0,Kengeri STP (60 MLD),7.67,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0929,12.975842,77.458934,766750.0,1435750.0,7.42,,0.0,,,2.93,0.0,4381.0,15.0,Kengeri STP (60 MLD),7.42,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1029,12.975798,77.46354,767250.0,1435750.0,7.21,,0.0,,,2.51,0.0,4091.0,227.0,Kengeri STP (60 MLD),7.21,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1129,12.975754,77.468146,767750.0,1435750.0,7.02,,0.0,,0.0,4.24,0.0,3845.0,0.0,Kengeri STP (60 MLD),7.02,geology missing/partial (outside Bhukosh sheet 57H09)
+G1229,12.975711,77.472752,768250.0,1435750.0,6.86,,0.0,,2.4,0.22,0.0,3652.0,291.0,V. Valley STP (150 MLD),6.81,geology missing/partial (outside Bhukosh sheet 57H09)
+G1329,12.975667,77.477358,768750.0,1435750.0,6.74,,0.0,,52.9,0.0,0.0,3519.0,339.0,V. Valley STP (150 MLD),6.45,geology missing/partial (outside Bhukosh sheet 57H09)
+G1429,12.975623,77.481964,769250.0,1435750.0,6.65,,0.0,,40.9,2.13,0.0,3454.0,125.0,V. Valley STP (150 MLD),6.1,geology missing/partial (outside Bhukosh sheet 57H09)
+G1529,12.975579,77.48657,769750.0,1435750.0,6.6,,0.0,,56.1,1.47,0.0,3270.0,114.0,V. Valley STP (150 MLD),5.77,geology missing/partial (outside Bhukosh sheet 57H09)
+G1629,12.975535,77.491176,770250.0,1435750.0,6.59,,0.0,,9.6,0.07,0.0,2850.0,269.0,V. Valley STP (150 MLD),5.47,geology missing/partial (outside Bhukosh sheet 57H09)
+G1729,12.975491,77.495782,770750.0,1435750.0,6.61,,0.0,,62.9,4.56,0.0,2352.0,59.0,V. Valley STP (150 MLD),5.2,geology missing/partial (outside Bhukosh sheet 57H09)
+G1829,12.975446,77.500387,771250.0,1435750.0,6.68,Grey Hornblende Biotite Gneiss,58.4,TRUE,79.0,0.64,0.0,1854.0,266.0,V. Valley STP (150 MLD),4.96,geology partial
+G1929,12.975402,77.504993,771750.0,1435750.0,6.77,Grey Hornblende Biotite Gneiss,100.0,FALSE,80.7,3.1,0.0,1358.0,38.0,V. Valley STP (150 MLD),4.77,
+G2029,12.975358,77.509599,772250.0,1435750.0,6.91,Grey Hornblende Biotite Gneiss,100.0,TRUE,79.6,0.0,0.0,867.0,465.0,V. Valley STP (150 MLD),4.62,
+G2129,12.975313,77.514205,772750.0,1435750.0,7.07,Grey Hornblende Biotite Gneiss,100.0,TRUE,81.0,0.0,0.0,382.0,479.0,V. Valley STP (150 MLD),4.52,
+G2229,12.975269,77.518811,773250.0,1435750.0,7.27,Grey Hornblende Biotite Gneiss,100.0,TRUE,69.8,3.47,2.3,33.0,72.0,V. Valley STP (150 MLD),4.48,
+G2329,12.975224,77.523417,773750.0,1435750.0,7.5,Grey Hornblende Biotite Gneiss,100.0,TRUE,88.5,2.51,0.0,524.0,120.0,V. Valley STP (150 MLD),4.49,
+G2429,12.975179,77.528023,774250.0,1435750.0,7.75,Grey Hornblende Biotite Gneiss,100.0,TRUE,90.1,0.0,0.0,1023.0,335.0,V. Valley STP (150 MLD),4.56,
+G0628,12.971455,77.445071,765250.0,1435250.0,7.83,,0.0,,,1.02,0.0,5133.0,244.0,Kengeri STP (60 MLD),7.83,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0728,12.971411,77.449677,765750.0,1435250.0,7.53,,0.0,,,0.67,0.0,4733.0,99.0,Kengeri STP (60 MLD),7.53,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0828,12.971368,77.454283,766250.0,1435250.0,7.24,,0.0,,,3.67,0.0,4353.0,70.0,Kengeri STP (60 MLD),7.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0928,12.971325,77.458889,766750.0,1435250.0,6.98,,0.0,,,3.45,0.0,3999.0,158.0,Kengeri STP (60 MLD),6.98,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1028,12.971281,77.463495,767250.0,1435250.0,6.75,,0.0,,,4.07,0.0,3680.0,157.0,Kengeri STP (60 MLD),6.75,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1128,12.971237,77.468101,767750.0,1435250.0,6.55,,0.0,,0.0,3.2,0.0,3404.0,121.0,Kengeri STP (60 MLD),6.55,geology missing/partial (outside Bhukosh sheet 57H09)
+G1228,12.971194,77.472707,768250.0,1435250.0,6.38,,0.0,,0.0,0.25,0.0,3184.0,230.0,Kengeri STP (60 MLD),6.38,geology missing/partial (outside Bhukosh sheet 57H09)
+G1328,12.97115,77.477313,768750.0,1435250.0,6.25,,0.0,,54.2,1.1,0.0,3030.0,114.0,V. Valley STP (150 MLD),6.11,geology missing/partial (outside Bhukosh sheet 57H09)
+G1428,12.971106,77.481919,769250.0,1435250.0,6.16,,0.0,,23.7,4.54,0.0,2955.0,121.0,V. Valley STP (150 MLD),5.74,geology missing/partial (outside Bhukosh sheet 57H09)
+G1528,12.971062,77.486525,769750.0,1435250.0,6.1,,0.0,,43.3,0.34,0.0,2963.0,285.0,V. Valley STP (150 MLD),5.39,geology missing/partial (outside Bhukosh sheet 57H09)
+G1628,12.971018,77.491131,770250.0,1435250.0,6.09,,0.0,,17.6,1.37,0.0,2583.0,40.0,V. Valley STP (150 MLD),5.07,geology missing/partial (outside Bhukosh sheet 57H09)
+G1728,12.970974,77.495736,770750.0,1435250.0,6.12,,0.0,,55.1,3.35,0.0,2162.0,125.0,V. Valley STP (150 MLD),4.77,geology missing/partial (outside Bhukosh sheet 57H09)
+G1828,12.970929,77.500342,771250.0,1435250.0,6.18,Grey Hornblende Biotite Gneiss,57.4,FALSE,66.4,2.48,0.0,1782.0,34.0,V. Valley STP (150 MLD),4.52,geology partial
+G1928,12.970885,77.504948,771750.0,1435250.0,6.29,Grey Hornblende Biotite Gneiss,100.0,FALSE,90.3,0.0,0.0,1364.0,422.0,V. Valley STP (150 MLD),4.3,
+G2028,12.970841,77.509554,772250.0,1435250.0,6.43,Grey Hornblende Biotite Gneiss,100.0,TRUE,84.9,0.0,0.0,872.0,546.0,V. Valley STP (150 MLD),4.14,
+G2128,12.970796,77.51416,772750.0,1435250.0,6.61,Grey Hornblende Biotite Gneiss,100.0,TRUE,80.9,0.0,0.0,395.0,740.0,V. Valley STP (150 MLD),4.03,
+G2228,12.970752,77.518766,773250.0,1435250.0,6.82,Grey Hornblende Biotite Gneiss,100.0,FALSE,75.1,2.36,2.36,33.0,569.0,V. Valley STP (150 MLD),3.98,
+G2328,12.970707,77.523371,773750.0,1435250.0,7.06,Grey Hornblende Biotite Gneiss,100.0,TRUE,91.1,0.0,0.0,531.0,597.0,V. Valley STP (150 MLD),3.99,
+G2428,12.970662,77.527977,774250.0,1435250.0,7.33,Grey Hornblende Biotite Gneiss,100.0,TRUE,86.7,0.0,0.0,1031.0,773.0,V. Valley STP (150 MLD),4.07,
+G2528,12.970617,77.532583,774750.0,1435250.0,7.62,Grey Hornblende Biotite Gneiss,100.0,TRUE,90.8,0.0,0.0,1448.0,1022.0,V. Valley STP (150 MLD),4.21,
+G2628,12.970573,77.537188,775250.0,1435250.0,7.93,Grey Hornblende Biotite Gneiss,100.0,FALSE,78.6,0.0,0.0,994.0,1364.0,V. Valley STP (150 MLD),4.39,
+G0527,12.966981,77.440421,764750.0,1434750.0,7.79,,0.0,,,0.08,0.0,5300.0,288.0,Kengeri STP (60 MLD),7.79,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0627,12.966938,77.445027,765250.0,1434750.0,7.45,,0.0,,,2.3,0.0,4863.0,49.0,Kengeri STP (60 MLD),7.45,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0727,12.966894,77.449633,765750.0,1434750.0,7.13,,0.0,,,0.0,0.0,4438.0,334.0,Kengeri STP (60 MLD),7.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0827,12.966851,77.454239,766250.0,1434750.0,6.83,,0.0,,,0.0,0.0,4031.0,410.0,Kengeri STP (60 MLD),6.83,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0927,12.966807,77.458845,766750.0,1434750.0,6.55,,0.0,,,4.0,0.0,3646.0,160.0,Kengeri STP (60 MLD),6.55,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1027,12.966764,77.463451,767250.0,1434750.0,6.31,,0.0,,,2.69,0.0,3293.0,50.0,Kengeri STP (60 MLD),6.31,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1127,12.96672,77.468056,767750.0,1434750.0,6.09,,0.0,,0.0,0.0,0.0,2982.0,295.0,Kengeri STP (60 MLD),6.09,geology missing/partial (outside Bhukosh sheet 57H09)
+G1227,12.966676,77.472662,768250.0,1434750.0,5.91,,0.0,,10.6,1.31,0.0,2727.0,75.0,Kengeri STP (60 MLD),5.91,geology missing/partial (outside Bhukosh sheet 57H09)
+G1327,12.966633,77.477268,768750.0,1434750.0,5.77,,0.0,,12.5,0.0,0.0,2547.0,469.0,Mailasandra Ph-I STP (75 MLD),5.73,geology missing/partial (outside Bhukosh sheet 57H09)
+G1427,12.966589,77.481874,769250.0,1434750.0,5.66,,0.0,,23.0,2.78,0.0,2456.0,6.0,V. Valley STP (150 MLD),5.4,geology missing/partial (outside Bhukosh sheet 57H09)
+G1527,12.966545,77.48648,769750.0,1434750.0,5.6,,0.0,,47.7,0.03,0.0,2466.0,324.0,V. Valley STP (150 MLD),5.03,geology missing/partial (outside Bhukosh sheet 57H09)
+G1627,12.966501,77.491086,770250.0,1434750.0,5.59,,0.0,,36.9,0.74,0.0,2374.0,262.0,V. Valley STP (150 MLD),4.68,geology missing/partial (outside Bhukosh sheet 57H09)
+G1727,12.966457,77.495691,770750.0,1434750.0,5.62,,0.0,,10.8,6.21,0.0,1910.0,17.0,V. Valley STP (150 MLD),4.36,geology missing/partial (outside Bhukosh sheet 57H09)
+G1827,12.966412,77.500297,771250.0,1434750.0,5.69,Grey Hornblende Biotite Gneiss,56.5,FALSE,78.4,0.48,0.0,1467.0,244.0,V. Valley STP (150 MLD),4.08,geology partial
+G1927,12.966368,77.504903,771750.0,1434750.0,5.81,Grey Hornblende Biotite Gneiss,100.0,FALSE,70.4,0.0,0.0,1075.0,443.0,V. Valley STP (150 MLD),3.84,
+G2027,12.966324,77.509509,772250.0,1434750.0,5.96,Grey Hornblende Biotite Gneiss,100.0,TRUE,34.7,0.99,0.0,808.0,66.0,V. Valley STP (150 MLD),3.66,
+G2127,12.966279,77.514114,772750.0,1434750.0,6.15,Grey Hornblende Biotite Gneiss,100.0,TRUE,69.4,0.0,0.0,352.0,530.0,V. Valley STP (150 MLD),3.54,
+G2227,12.966235,77.51872,773250.0,1434750.0,6.38,Grey Hornblende Biotite Gneiss,100.0,TRUE,66.8,2.53,2.53,93.0,970.0,V. Valley STP (150 MLD),3.48,
+G2327,12.96619,77.523326,773750.0,1434750.0,6.63,Grey Hornblende Biotite Gneiss,100.0,TRUE,81.3,0.0,0.0,547.0,1076.0,V. Valley STP (150 MLD),3.5,
+G2427,12.966145,77.527931,774250.0,1434750.0,6.92,Grey Hornblende Biotite Gneiss,100.0,TRUE,78.6,0.0,0.0,1041.0,1236.0,V. Valley STP (150 MLD),3.58,
+G2527,12.966101,77.532537,774750.0,1434750.0,7.22,Grey Hornblende Biotite Gneiss,100.0,TRUE,82.5,0.0,0.0,1328.0,1424.0,V. Valley STP (150 MLD),3.74,
+G2627,12.966056,77.537143,775250.0,1434750.0,7.55,Grey Hornblende Biotite Gneiss,100.0,FALSE,71.3,0.0,0.0,833.0,1501.0,V. Valley STP (150 MLD),3.95,
+G2727,12.966011,77.541748,775750.0,1434750.0,7.89,Grey Hornblende Biotite Gneiss,100.0,FALSE,77.2,0.0,0.0,348.0,1464.0,V. Valley STP (150 MLD),4.21,
+G0426,12.962507,77.435771,764250.0,1434250.0,7.81,,0.0,,,3.93,0.0,5552.0,102.0,Kengeri STP (60 MLD),7.81,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0526,12.962464,77.440377,764750.0,1434250.0,7.44,,0.0,,,0.94,0.0,5087.0,243.0,Kengeri STP (60 MLD),7.44,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0626,12.96242,77.444983,765250.0,1434250.0,7.08,,0.0,,,2.06,0.0,4630.0,84.0,Kengeri STP (60 MLD),7.08,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0726,12.962377,77.449589,765750.0,1434250.0,6.74,,0.0,,,1.74,0.0,4182.0,32.0,Kengeri STP (60 MLD),6.74,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0826,12.962334,77.454195,766250.0,1434250.0,6.43,,0.0,,,0.0,0.0,3748.0,258.0,Kengeri STP (60 MLD),6.43,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0926,12.96229,77.4588,766750.0,1434250.0,6.13,,0.0,,,2.74,0.0,3331.0,149.0,Kengeri STP (60 MLD),6.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1026,12.962247,77.463406,767250.0,1434250.0,5.87,,0.0,,,2.1,0.0,2940.0,18.0,Kengeri STP (60 MLD),5.87,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1126,12.962203,77.468012,767750.0,1434250.0,5.64,,0.0,,0.0,1.79,0.0,2587.0,160.0,Kengeri STP (60 MLD),5.64,geology missing/partial (outside Bhukosh sheet 57H09)
+G1226,12.962159,77.472618,768250.0,1434250.0,5.44,,0.0,,19.1,0.39,0.0,2289.0,282.0,Kengeri STP (60 MLD),5.44,geology missing/partial (outside Bhukosh sheet 57H09)
+G1326,12.962116,77.477223,768750.0,1434250.0,5.28,,0.0,,42.6,0.0,0.0,2071.0,374.0,Kengeri STP (60 MLD),5.28,geology missing/partial (outside Bhukosh sheet 57H09)
+G1426,12.962072,77.481829,769250.0,1434250.0,5.17,,0.0,,19.5,2.27,0.0,1958.0,125.0,Mailasandra Ph-I STP (75 MLD),5.05,geology missing/partial (outside Bhukosh sheet 57H09)
+G1526,12.962028,77.486435,769750.0,1434250.0,5.11,,0.0,,55.7,2.38,0.0,1971.0,23.0,V. Valley STP (150 MLD),4.7,geology missing/partial (outside Bhukosh sheet 57H09)
+G1626,12.961984,77.491041,770250.0,1434250.0,5.09,,0.0,,42.4,1.99,0.0,2105.0,99.0,V. Valley STP (150 MLD),4.32,geology missing/partial (outside Bhukosh sheet 57H09)
+G1726,12.96194,77.495646,770750.0,1434250.0,5.12,,0.0,,45.5,0.5,0.0,1762.0,280.0,V. Valley STP (150 MLD),3.98,geology missing/partial (outside Bhukosh sheet 57H09)
+G1826,12.961895,77.500252,771250.0,1434250.0,5.2,Grey Hornblende Biotite Gneiss,55.5,FALSE,76.1,1.0,0.0,1272.0,197.0,V. Valley STP (150 MLD),3.66,geology partial
+G1926,12.961851,77.504858,771750.0,1434250.0,5.33,Grey Hornblende Biotite Gneiss,100.0,TRUE,69.2,0.04,0.0,794.0,250.0,V. Valley STP (150 MLD),3.4,
+G2026,12.961807,77.509463,772250.0,1434250.0,5.5,Grey Hornblende Biotite Gneiss,100.0,TRUE,79.0,2.2,0.0,368.0,120.0,V. Valley STP (150 MLD),3.19,
+G2126,12.961762,77.514069,772750.0,1434250.0,5.7,Grey Hornblende Biotite Gneiss,100.0,TRUE,53.2,1.34,1.34,197.0,373.0,V. Valley STP (150 MLD),3.05,
+G2226,12.961718,77.518675,773250.0,1434250.0,5.95,Grey Hornblende Biotite Gneiss,100.0,TRUE,52.1,1.51,1.51,115.0,648.0,V. Valley STP (150 MLD),2.98,
+G2326,12.961673,77.52328,773750.0,1434250.0,6.22,Grey Hornblende Biotite Gneiss,100.0,TRUE,82.3,0.0,0.0,606.0,866.0,V. Valley STP (150 MLD),3.0,
+G2426,12.961628,77.527886,774250.0,1434250.0,6.52,Grey Hornblende Biotite Gneiss,100.0,TRUE,73.1,0.0,0.0,1101.0,1063.0,V. Valley STP (150 MLD),3.1,
+G2526,12.961584,77.532491,774750.0,1434250.0,6.84,Grey Hornblende Biotite Gneiss,100.0,TRUE,82.3,0.0,0.0,1123.0,924.0,V. Valley STP (150 MLD),3.28,
+G2626,12.961539,77.537097,775250.0,1434250.0,7.19,Grey Hornblende Biotite Gneiss,100.0,FALSE,81.0,0.0,0.0,790.0,1039.0,V. Valley STP (150 MLD),3.51,
+G2726,12.961494,77.541702,775750.0,1434250.0,7.55,Grey Hornblende Biotite Gneiss,100.0,FALSE,78.4,0.0,0.0,302.0,965.0,V. Valley STP (150 MLD),3.8,
+G2826,12.961449,77.546308,776250.0,1434250.0,7.93,Grey Hornblende Biotite Gneiss,100.0,FALSE,84.1,2.47,2.47,138.0,1059.0,V. Valley STP (150 MLD),4.13,
+G0325,12.958033,77.431121,763750.0,1433750.0,7.89,,0.0,,,3.65,0.0,5878.0,46.0,Kengeri STP (60 MLD),7.89,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0425,12.957989,77.435727,764250.0,1433750.0,7.49,,0.0,,,3.6,0.0,5395.0,40.0,Kengeri STP (60 MLD),7.49,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0525,12.957946,77.440333,764750.0,1433750.0,7.1,,0.0,,,2.12,0.0,4916.0,149.0,Kengeri STP (60 MLD),7.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0625,12.957903,77.444939,765250.0,1433750.0,6.73,,0.0,,,2.22,0.0,4441.0,163.0,Kengeri STP (60 MLD),6.73,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0725,12.95786,77.449544,765750.0,1433750.0,6.37,,0.0,,,3.88,0.0,3972.0,99.0,Kengeri STP (60 MLD),6.37,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0825,12.957816,77.45415,766250.0,1433750.0,6.04,,0.0,,,0.77,0.0,3512.0,246.0,Kengeri STP (60 MLD),6.04,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0925,12.957773,77.458756,766750.0,1433750.0,5.72,,0.0,,,2.69,0.0,3065.0,69.0,Kengeri STP (60 MLD),5.72,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1025,12.957729,77.463362,767250.0,1433750.0,5.44,,0.0,,,1.62,0.0,2635.0,195.0,Kengeri STP (60 MLD),5.44,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1125,12.957686,77.467967,767750.0,1433750.0,5.19,,0.0,,0.0,2.31,0.0,2235.0,113.0,Kengeri STP (60 MLD),5.19,geology missing/partial (outside Bhukosh sheet 57H09)
+G1225,12.957642,77.472573,768250.0,1433750.0,4.98,,0.0,,5.2,2.02,0.0,1882.0,30.0,Kengeri STP (60 MLD),4.98,geology missing/partial (outside Bhukosh sheet 57H09)
+G1325,12.957598,77.477179,768750.0,1433750.0,4.8,,0.0,,60.8,0.6,0.0,1609.0,142.0,Kengeri STP (60 MLD),4.8,geology missing/partial (outside Bhukosh sheet 57H09)
+G1425,12.957555,77.481784,769250.0,1433750.0,4.68,,0.0,,43.0,1.97,0.0,1462.0,108.0,Mailasandra Ph-I STP (75 MLD),4.61,geology missing/partial (outside Bhukosh sheet 57H09)
+G1525,12.957511,77.48639,769750.0,1433750.0,4.61,,0.0,,32.2,2.56,0.0,1478.0,107.0,Mailasandra Ph-I STP (75 MLD),4.38,geology missing/partial (outside Bhukosh sheet 57H09)
+G1625,12.957467,77.490996,770250.0,1433750.0,4.59,,0.0,,46.4,2.14,0.0,1653.0,4.0,V. Valley STP (150 MLD),4.0,geology missing/partial (outside Bhukosh sheet 57H09)
+G1725,12.957422,77.495601,770750.0,1433750.0,4.62,,0.0,,68.6,1.83,0.0,1742.0,147.0,V. Valley STP (150 MLD),3.62,geology missing/partial (outside Bhukosh sheet 57H09)
+G1825,12.957378,77.500207,771250.0,1433750.0,4.71,Grey Hornblende Biotite Gneiss,54.5,FALSE,75.6,2.2,0.0,1246.0,30.0,V. Valley STP (150 MLD),3.27,geology partial
+G1925,12.957334,77.504813,771750.0,1433750.0,4.85,Grey Hornblende Biotite Gneiss,100.0,TRUE,35.2,0.0,0.0,753.0,317.0,V. Valley STP (150 MLD),2.97,
+G2025,12.95729,77.509418,772250.0,1433750.0,5.04,Grey Hornblende Biotite Gneiss,100.0,TRUE,62.1,1.61,0.35,262.0,211.0,V. Valley STP (150 MLD),2.73,
+G2125,12.957245,77.514024,772750.0,1433750.0,5.26,Grey Hornblende Biotite Gneiss,100.0,TRUE,68.2,3.9,3.9,80.0,337.0,V. Valley STP (150 MLD),2.56,
+G2225,12.957201,77.518629,773250.0,1433750.0,5.52,Grey Hornblende Biotite Gneiss,100.0,TRUE,67.9,0.88,0.0,441.0,164.0,V. Valley STP (150 MLD),2.48,
+G2325,12.957156,77.523235,773750.0,1433750.0,5.82,Grey Hornblende Biotite Gneiss,100.0,TRUE,79.2,0.0,0.0,812.0,596.0,V. Valley STP (150 MLD),2.5,
+G2425,12.957111,77.52784,774250.0,1433750.0,6.14,Grey Hornblende Biotite Gneiss,100.0,TRUE,70.4,0.0,0.0,1192.0,675.0,V. Valley STP (150 MLD),2.62,
+G2525,12.957067,77.532446,774750.0,1433750.0,6.48,Grey Hornblende Biotite Gneiss,100.0,TRUE,84.4,0.0,0.0,754.0,425.0,V. Valley STP (150 MLD),2.83,
+G2625,12.957022,77.537051,775250.0,1433750.0,6.84,Grey Hornblende Biotite Gneiss,100.0,TRUE,73.9,0.0,0.0,452.0,629.0,V. Valley STP (150 MLD),3.1,
+G2725,12.956977,77.541657,775750.0,1433750.0,7.22,Grey Hornblende Biotite Gneiss,100.0,FALSE,83.0,2.3,2.3,115.0,468.0,V. Valley STP (150 MLD),3.42,
+G2825,12.956932,77.546262,776250.0,1433750.0,7.61,Grey Hornblende Biotite Gneiss,100.0,FALSE,52.2,0.11,0.11,289.0,570.0,V. Valley STP (150 MLD),3.79,
+G0324,12.953515,77.431077,763750.0,1433250.0,7.61,,0.0,,,4.37,0.0,5774.0,162.0,Kengeri STP (60 MLD),7.61,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0424,12.953472,77.435683,764250.0,1433250.0,7.2,,0.0,,,2.71,0.0,5282.0,98.0,Kengeri STP (60 MLD),7.2,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0524,12.953429,77.440289,764750.0,1433250.0,6.79,,0.0,,,0.5,0.0,4791.0,243.0,Kengeri STP (60 MLD),6.79,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0624,12.953386,77.444895,765250.0,1433250.0,6.4,,0.0,,,0.0,0.0,4302.0,271.0,Kengeri STP (60 MLD),6.4,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0724,12.953343,77.4495,765750.0,1433250.0,6.02,,0.0,,,1.22,0.0,3817.0,189.0,Kengeri STP (60 MLD),6.02,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0824,12.953299,77.454106,766250.0,1433250.0,5.67,,0.0,,,3.39,0.0,3335.0,42.0,Kengeri STP (60 MLD),5.67,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0924,12.953256,77.458712,766750.0,1433250.0,5.33,,0.0,,,2.37,0.0,2860.0,117.0,Kengeri STP (60 MLD),5.33,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1024,12.953212,77.463317,767250.0,1433250.0,5.03,,0.0,,,0.0,0.0,2395.0,364.0,Kengeri STP (60 MLD),5.03,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1124,12.953169,77.467923,767750.0,1433250.0,4.75,,0.0,,0.0,0.43,0.0,1948.0,289.0,Kengeri STP (60 MLD),4.75,geology missing/partial (outside Bhukosh sheet 57H09)
+G1224,12.953125,77.472529,768250.0,1433250.0,4.52,,0.0,,11.3,5.04,0.0,1531.0,86.0,Kengeri STP (60 MLD),4.52,geology missing/partial (outside Bhukosh sheet 57H09)
+G1324,12.953081,77.477134,768750.0,1433250.0,4.33,,0.0,,24.7,0.71,0.0,1180.0,262.0,Kengeri STP (60 MLD),4.33,geology missing/partial (outside Bhukosh sheet 57H09)
+G1424,12.953037,77.48174,769250.0,1433250.0,4.19,,0.0,,58.9,0.0,0.0,969.0,365.0,Mailasandra Ph-I STP (75 MLD),4.18,geology missing/partial (outside Bhukosh sheet 57H09)
+G1524,12.952993,77.486345,769750.0,1433250.0,4.11,,0.0,,58.3,3.95,0.0,994.0,47.0,Mailasandra Ph-I STP (75 MLD),3.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1624,12.952949,77.490951,770250.0,1433250.0,4.09,,0.0,,61.5,2.95,0.0,1239.0,166.0,V. Valley STP (150 MLD),3.71,geology missing/partial (outside Bhukosh sheet 57H09)
+G1724,12.952905,77.495556,770750.0,1433250.0,4.13,,0.0,,85.9,0.49,0.0,1607.0,284.0,V. Valley STP (150 MLD),3.3,geology missing/partial (outside Bhukosh sheet 57H09)
+G1824,12.952861,77.500162,771250.0,1433250.0,4.23,Grey Hornblende Biotite Gneiss,53.5,FALSE,53.6,0.0,0.0,1197.0,453.0,V. Valley STP (150 MLD),2.91,geology partial
+G1924,12.952817,77.504767,771750.0,1433250.0,4.38,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,0.49,0.0,697.0,167.0,V. Valley STP (150 MLD),2.57,
+G2024,12.952773,77.509373,772250.0,1433250.0,4.59,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,5.1,1.71,198.0,161.0,V. Valley STP (150 MLD),2.28,
+G2124,12.952728,77.513978,772750.0,1433250.0,4.83,Grey Hornblende Biotite Gneiss,100.0,TRUE,45.0,2.59,0.48,285.0,133.0,V. Valley STP (150 MLD),2.08,
+G2224,12.952684,77.518584,773250.0,1433250.0,5.12,Grey Hornblende Biotite Gneiss,100.0,TRUE,54.1,0.03,0.0,724.0,331.0,V. Valley STP (150 MLD),1.98,
+G2324,12.952639,77.523189,773750.0,1433250.0,5.43,Grey Hornblende Biotite Gneiss,100.0,TRUE,77.9,0.42,0.0,991.0,159.0,V. Valley STP (150 MLD),2.01,
+G2424,12.952595,77.527795,774250.0,1433250.0,5.77,Grey Hornblende Biotite Gneiss,100.0,TRUE,80.2,0.0,0.0,792.0,376.0,V. Valley STP (150 MLD),2.16,
+G2524,12.95255,77.5324,774750.0,1433250.0,6.14,Grey Hornblende Biotite Gneiss,100.0,TRUE,66.6,1.66,0.0,597.0,24.0,V. Valley STP (150 MLD),2.4,
+G2624,12.952505,77.537005,775250.0,1433250.0,6.52,Grey Hornblende Biotite Gneiss,100.0,TRUE,45.1,1.88,1.88,99.0,428.0,V. Valley STP (150 MLD),2.72,
+G2724,12.95246,77.541611,775750.0,1433250.0,6.91,Grey Hornblende Biotite Gneiss,100.0,FALSE,61.7,3.32,1.71,66.0,21.0,V. Valley STP (150 MLD),3.08,
+G2824,12.952415,77.546216,776250.0,1433250.0,7.32,Grey Hornblende Biotite Gneiss,100.0,FALSE,28.3,2.29,0.0,523.0,70.0,V. Valley STP (150 MLD),3.48,
+G2924,12.95237,77.550821,776750.0,1433250.0,7.74,Grey Granite,100.0,FALSE,80.5,2.59,0.0,955.0,27.0,Lalbagh STP (1.5 MLD),3.67,
+G0223,12.949041,77.426428,763250.0,1432750.0,7.8,,0.0,,,0.0,0.0,6204.0,279.0,Kengeri STP (60 MLD),7.8,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0323,12.948998,77.431034,763750.0,1432750.0,7.36,,0.0,,,1.82,0.0,5707.0,213.0,Kengeri STP (60 MLD),7.36,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0423,12.948955,77.435639,764250.0,1432750.0,6.93,,0.0,,,3.86,0.0,5210.0,109.0,Kengeri STP (60 MLD),6.93,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0523,12.948912,77.440245,764750.0,1432750.0,6.5,,0.0,,,0.04,0.0,4714.0,280.0,Kengeri STP (60 MLD),6.5,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0623,12.948869,77.444851,765250.0,1432750.0,6.09,,0.0,,,1.95,0.0,4218.0,147.0,Kengeri STP (60 MLD),6.09,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0723,12.948825,77.449456,765750.0,1432750.0,5.7,,0.0,,,0.0,0.0,3722.0,349.0,Kengeri STP (60 MLD),5.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0823,12.948782,77.454062,766250.0,1432750.0,5.32,,0.0,,,1.52,0.0,3226.0,50.0,Kengeri STP (60 MLD),5.32,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0923,12.948739,77.458667,766750.0,1432750.0,4.96,,0.0,,,4.21,0.0,2732.0,60.0,Kengeri STP (60 MLD),4.96,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1023,12.948695,77.463273,767250.0,1432750.0,4.63,,0.0,,,0.38,0.0,2241.0,256.0,Kengeri STP (60 MLD),4.63,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1123,12.948652,77.467878,767750.0,1432750.0,4.33,,0.0,,0.0,0.0,0.0,1755.0,374.0,Kengeri STP (60 MLD),4.33,geology missing/partial (outside Bhukosh sheet 57H09)
+G1223,12.948608,77.472484,768250.0,1432750.0,4.07,,0.0,,4.7,2.09,0.0,1280.0,100.0,Kengeri STP (60 MLD),4.07,geology missing/partial (outside Bhukosh sheet 57H09)
+G1323,12.948564,77.477089,768750.0,1432750.0,3.86,,0.0,,17.4,0.0,0.0,833.0,394.0,Kengeri STP (60 MLD),3.86,geology missing/partial (outside Bhukosh sheet 57H09)
+G1423,12.94852,77.481695,769250.0,1432750.0,3.71,,0.0,,32.9,0.38,0.0,492.0,259.0,Kengeri STP (60 MLD),3.71,geology missing/partial (outside Bhukosh sheet 57H09)
+G1523,12.948476,77.4863,769750.0,1432750.0,3.61,,0.0,,57.9,2.02,0.0,538.0,216.0,Mailasandra Ph-I STP (75 MLD),3.49,geology missing/partial (outside Bhukosh sheet 57H09)
+G1623,12.948432,77.490906,770250.0,1432750.0,3.59,,0.0,,47.6,0.97,0.0,915.0,192.0,Mailasandra Ph-I STP (75 MLD),3.26,geology missing/partial (outside Bhukosh sheet 57H09)
+G1723,12.948388,77.495511,770750.0,1432750.0,3.63,,0.0,,65.7,0.0,0.0,1373.0,315.0,V. Valley STP (150 MLD),3.02,geology missing/partial (outside Bhukosh sheet 57H09)
+G1823,12.948344,77.500117,771250.0,1432750.0,3.75,Grey Hornblende Biotite Gneiss,52.5,TRUE,25.3,0.0,0.0,1207.0,286.0,V. Valley STP (150 MLD),2.6,geology partial
+G1923,12.9483,77.504722,771750.0,1432750.0,3.92,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.3,1.72,0.0,718.0,107.0,V. Valley STP (150 MLD),2.2,
+G2023,12.948256,77.509328,772250.0,1432750.0,4.15,Grey Hornblende Biotite Gneiss,100.0,TRUE,3.6,2.8,0.55,270.0,2.0,V. Valley STP (150 MLD),1.86,
+G2123,12.948211,77.513933,772750.0,1432750.0,4.42,Grey Hornblende Biotite Gneiss,100.0,TRUE,5.3,4.5,2.44,82.0,16.0,V. Valley STP (150 MLD),1.61,
+G2223,12.948167,77.518538,773250.0,1432750.0,4.73,Grey Hornblende Biotite Gneiss,100.0,TRUE,29.5,1.31,0.0,394.0,123.0,V. Valley STP (150 MLD),1.48,
+G2323,12.948122,77.523144,773750.0,1432750.0,5.07,Grey Hornblende Biotite Gneiss,100.0,TRUE,76.5,2.22,0.0,652.0,74.0,V. Valley STP (150 MLD),1.52,
+G2423,12.948078,77.527749,774250.0,1432750.0,5.43,Grey Hornblende Biotite Gneiss,100.0,TRUE,69.0,0.25,0.0,306.0,320.0,V. Valley STP (150 MLD),1.71,
+G2523,12.948033,77.532354,774750.0,1432750.0,5.82,Grey Hornblende Biotite Gneiss,100.0,TRUE,21.7,2.15,0.0,306.0,112.0,V. Valley STP (150 MLD),2.01,
+G2623,12.947988,77.53696,775250.0,1432750.0,6.22,Grey Hornblende Biotite Gneiss,100.0,FALSE,55.1,2.5,2.5,94.0,612.0,V. Valley STP (150 MLD),2.38,
+G2723,12.947943,77.541565,775750.0,1432750.0,6.63,Grey Hornblende Biotite Gneiss,100.0,FALSE,69.2,0.0,0.0,380.0,433.0,V. Valley STP (150 MLD),2.79,
+G2823,12.947898,77.54617,776250.0,1432750.0,7.06,Grey Hornblende Biotite Gneiss,100.0,FALSE,45.5,0.0,0.0,773.0,351.0,V. Valley STP (150 MLD),3.22,
+G2923,12.947853,77.550775,776750.0,1432750.0,7.49,Grey Granite,100.0,FALSE,85.0,0.0,0.0,1175.0,402.0,Lalbagh STP (1.5 MLD),3.6,
+G3023,12.947808,77.555381,777250.0,1432750.0,7.93,Grey Granite,100.0,FALSE,80.9,0.0,0.0,1629.0,398.0,Lalbagh STP (1.5 MLD),3.1,
+G0222,12.944524,77.426384,763250.0,1432250.0,7.58,,0.0,,,0.6,0.0,6166.0,145.0,Doddabele STP (20 MLD),7.55,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0322,12.944481,77.43099,763750.0,1432250.0,7.13,,0.0,,,0.0,0.0,5667.0,423.0,Kengeri STP (60 MLD),7.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0422,12.944438,77.435595,764250.0,1432250.0,6.68,,0.0,,,3.08,0.0,5168.0,64.0,Kengeri STP (60 MLD),6.68,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0522,12.944395,77.440201,764750.0,1432250.0,6.24,,0.0,,,2.47,0.0,4668.0,26.0,Kengeri STP (60 MLD),6.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0622,12.944351,77.444806,765250.0,1432250.0,5.81,,0.0,,,2.52,0.0,4169.0,203.0,Kengeri STP (60 MLD),5.81,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0722,12.944308,77.449412,765750.0,1432250.0,5.39,,0.0,,,1.35,0.0,3671.0,165.0,Kengeri STP (60 MLD),5.39,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0822,12.944265,77.454018,766250.0,1432250.0,4.99,,0.0,,,0.0,0.0,3172.0,424.0,Kengeri STP (60 MLD),4.99,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0922,12.944221,77.458623,766750.0,1432250.0,4.61,,0.0,,,4.88,0.0,2675.0,7.0,Kengeri STP (60 MLD),4.61,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1022,12.944178,77.463229,767250.0,1432250.0,4.25,,0.0,,,2.58,0.0,2177.0,176.0,Kengeri STP (60 MLD),4.25,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1122,12.944134,77.467834,767750.0,1432250.0,3.93,,0.0,,0.0,0.0,0.0,1678.0,268.0,Kengeri STP (60 MLD),3.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1222,12.944091,77.472439,768250.0,1432250.0,3.64,,0.0,,2.2,2.62,0.0,1179.0,146.0,Kengeri STP (60 MLD),3.64,geology missing/partial (outside Bhukosh sheet 57H09)
+G1322,12.944047,77.477045,768750.0,1432250.0,3.4,,0.0,,44.0,0.0,0.0,683.0,450.0,Kengeri STP (60 MLD),3.4,geology missing/partial (outside Bhukosh sheet 57H09)
+G1422,12.944003,77.48165,769250.0,1432250.0,3.22,,0.0,,43.7,3.64,1.23,192.0,135.0,Kengeri STP (60 MLD),3.22,geology missing/partial (outside Bhukosh sheet 57H09)
+G1522,12.943959,77.486256,769750.0,1432250.0,3.12,,0.0,,58.3,1.16,0.0,302.0,215.0,Mailasandra Ph-I STP (75 MLD),3.08,geology missing/partial (outside Bhukosh sheet 57H09)
+G1622,12.943915,77.490861,770250.0,1432250.0,3.09,,0.0,,65.0,1.68,0.0,799.0,163.0,Mailasandra Ph-I STP (75 MLD),2.81,geology missing/partial (outside Bhukosh sheet 57H09)
+G1722,12.943871,77.495466,770750.0,1432250.0,3.14,,0.0,,54.6,0.0,0.0,1247.0,437.0,Mailasandra Ph-I STP (75 MLD),2.62,geology missing/partial (outside Bhukosh sheet 57H09)
+G1822,12.943827,77.500072,771250.0,1432250.0,3.27,Grey Hornblende Biotite Gneiss,51.6,TRUE,21.3,2.02,0.0,1379.0,53.0,V. Valley STP (150 MLD),2.35,geology partial
+G1922,12.943783,77.504677,771750.0,1432250.0,3.47,Grey Hornblende Biotite Gneiss,100.0,TRUE,7.4,0.12,0.0,977.0,222.0,V. Valley STP (150 MLD),1.91,
+G2022,12.943739,77.509282,772250.0,1432250.0,3.72,Grey Hornblende Biotite Gneiss,100.0,TRUE,9.1,2.06,0.0,612.0,38.0,V. Valley STP (150 MLD),1.5,
+G2122,12.943694,77.513888,772750.0,1432250.0,4.02,Grey Hornblende Biotite Gneiss,100.0,TRUE,32.9,2.83,1.91,204.0,219.0,V. Valley STP (150 MLD),1.17,
+G2222,12.94365,77.518493,773250.0,1432250.0,4.36,Grey Hornblende Biotite Gneiss,100.0,TRUE,49.5,1.44,1.02,174.0,249.0,V. Valley STP (150 MLD),0.99,
+G2322,12.943605,77.523098,773750.0,1432250.0,4.73,Grey Hornblende Biotite Gneiss,100.0,TRUE,63.5,2.25,0.0,574.0,80.0,V. Valley STP (150 MLD),1.04,
+G2422,12.943561,77.527703,774250.0,1432250.0,5.11,Grey Hornblende Biotite Gneiss,100.0,TRUE,2.1,2.78,2.61,77.0,280.0,V. Valley STP (150 MLD),1.3,
+G2522,12.943516,77.532309,774750.0,1432250.0,5.52,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,2.15,2.15,161.0,360.0,V. Valley STP (150 MLD),1.68,
+G2622,12.943471,77.536914,775250.0,1432250.0,5.94,Grey Hornblende Biotite Gneiss,100.0,TRUE,38.7,0.99,0.99,244.0,735.0,V. Valley STP (150 MLD),2.1,
+G2722,12.943426,77.541519,775750.0,1432250.0,6.37,Grey Hornblende Biotite Gneiss,100.0,FALSE,82.4,0.0,0.0,533.0,921.0,V. Valley STP (150 MLD),2.56,
+G2822,12.943381,77.546124,776250.0,1432250.0,6.82,Grey Granite,100.0,FALSE,88.9,0.0,0.0,982.0,843.0,V. Valley STP (150 MLD),3.03,
+G2922,12.943336,77.550729,776750.0,1432250.0,7.27,Grey Granite,100.0,FALSE,87.9,0.0,0.0,1463.0,887.0,V. Valley STP (150 MLD),3.5,
+G3022,12.943291,77.555335,777250.0,1432250.0,7.72,Grey Granite,100.0,FALSE,80.0,0.0,0.0,1864.0,842.0,Lalbagh STP (1.5 MLD),3.1,
+G0121,12.940049,77.421735,762750.0,1431750.0,7.86,,0.0,,,4.12,0.0,6496.0,0.0,Doddabele STP (20 MLD),7.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0221,12.940006,77.42634,763250.0,1431750.0,7.39,,0.0,,,0.61,0.0,6016.0,268.0,Doddabele STP (20 MLD),7.22,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0321,12.939963,77.430946,763750.0,1431750.0,6.93,,0.0,,,2.21,0.0,5539.0,83.0,Doddabele STP (20 MLD),6.84,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0421,12.93992,77.435551,764250.0,1431750.0,6.46,,0.0,,,3.0,0.0,5067.0,14.0,Kengeri STP (60 MLD),6.46,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0521,12.939877,77.440157,764750.0,1431750.0,6.01,,0.0,,,0.0,0.0,4601.0,300.0,Kengeri STP (60 MLD),6.01,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0621,12.939834,77.444762,765250.0,1431750.0,5.56,,0.0,,,0.55,0.0,4142.0,195.0,Kengeri STP (60 MLD),5.56,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0721,12.939791,77.449368,765750.0,1431750.0,5.13,,0.0,,,3.11,0.0,3666.0,32.0,Kengeri STP (60 MLD),5.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0821,12.939748,77.453973,766250.0,1431750.0,4.7,,0.0,,,2.03,0.0,3166.0,197.0,Kengeri STP (60 MLD),4.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0921,12.939704,77.458579,766750.0,1431750.0,4.29,,0.0,,,2.97,0.0,2667.0,103.0,Kengeri STP (60 MLD),4.29,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1021,12.939661,77.463184,767250.0,1431750.0,3.9,,0.0,,,0.1,0.0,2169.0,270.0,Kengeri STP (60 MLD),3.9,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1121,12.939617,77.46779,767750.0,1431750.0,3.55,,0.0,,0.0,0.0,0.0,1671.0,316.0,Kengeri STP (60 MLD),3.55,geology missing/partial (outside Bhukosh sheet 57H09)
+G1221,12.939574,77.472395,768250.0,1431750.0,3.22,,0.0,,5.0,2.35,0.0,1174.0,183.0,Kengeri STP (60 MLD),3.22,geology missing/partial (outside Bhukosh sheet 57H09)
+G1321,12.93953,77.477,768750.0,1431750.0,2.95,,0.0,,53.4,0.53,0.0,683.0,190.0,Kengeri STP (60 MLD),2.95,geology missing/partial (outside Bhukosh sheet 57H09)
+G1421,12.939486,77.481606,769250.0,1431750.0,2.75,,0.0,,57.7,0.75,0.75,228.0,347.0,Kengeri STP (60 MLD),2.75,geology missing/partial (outside Bhukosh sheet 57H09)
+G1521,12.939442,77.486211,769750.0,1431750.0,2.62,,0.0,,58.1,3.09,1.71,153.0,120.0,Kengeri STP (60 MLD),2.62,geology missing/partial (outside Bhukosh sheet 57H09)
+G1621,12.939398,77.490816,770250.0,1431750.0,2.59,,0.0,,64.5,0.0,0.0,653.0,480.0,Mailasandra Ph-I STP (75 MLD),2.38,geology missing/partial (outside Bhukosh sheet 57H09)
+G1721,12.939354,77.495421,770750.0,1431750.0,2.65,,0.0,,75.0,1.6,0.0,1153.0,175.0,Mailasandra Ph-I STP (75 MLD),2.15,geology missing/partial (outside Bhukosh sheet 57H09)
+G1821,12.93931,77.500027,771250.0,1431750.0,2.8,Grey Hornblende Biotite Gneiss,50.6,TRUE,4.6,0.88,0.0,1195.0,261.0,Mailasandra Ph-I STP (75 MLD),2.02,geology partial
+G1921,12.939266,77.504632,771750.0,1431750.0,3.03,Grey Hornblende Biotite Gneiss,100.0,TRUE,30.5,2.97,0.0,864.0,87.0,V. Valley STP (150 MLD),1.7,
+G2021,12.939222,77.509237,772250.0,1431750.0,3.32,Grey Hornblende Biotite Gneiss,100.0,TRUE,8.9,2.45,0.0,397.0,65.0,V. Valley STP (150 MLD),1.23,
+G2121,12.939177,77.513842,772750.0,1431750.0,3.65,Grey Hornblende Biotite Gneiss,100.0,FALSE,20.9,3.92,2.53,25.0,16.0,V. Valley STP (150 MLD),0.8,
+G2221,12.939133,77.518448,773250.0,1431750.0,4.02,Grey Hornblende Biotite Gneiss,100.0,TRUE,17.0,1.31,0.0,420.0,223.0,V. Valley STP (150 MLD),0.5,
+G2321,12.939088,77.523053,773750.0,1431750.0,4.41,Grey Hornblende Biotite Gneiss,100.0,FALSE,19.8,1.51,0.0,413.0,190.0,V. Valley STP (150 MLD),0.6,
+G2421,12.939044,77.527658,774250.0,1431750.0,4.83,Grey Hornblende Biotite Gneiss,100.0,FALSE,12.4,2.18,2.18,13.0,540.0,V. Valley STP (150 MLD),0.99,
+G2521,12.938999,77.532263,774750.0,1431750.0,5.26,Grey Hornblende Biotite Gneiss,100.0,TRUE,30.7,0.0,0.0,474.0,786.0,V. Valley STP (150 MLD),1.45,
+G2621,12.938954,77.536868,775250.0,1431750.0,5.7,Grey Hornblende Biotite Gneiss,100.0,FALSE,62.3,0.0,0.0,660.0,744.0,V. Valley STP (150 MLD),1.92,
+G2721,12.938909,77.541473,775750.0,1431750.0,6.15,Grey Hornblende Biotite Gneiss,100.0,FALSE,83.2,0.0,0.0,910.0,839.0,V. Valley STP (150 MLD),2.41,
+G2821,12.938864,77.546078,776250.0,1431750.0,6.6,Grey Granite,100.0,FALSE,82.6,0.0,0.0,1236.0,1127.0,V. Valley STP (150 MLD),2.9,
+G2921,12.938819,77.550683,776750.0,1431750.0,7.07,Grey Granite,100.0,FALSE,81.7,0.0,0.0,1647.0,1325.0,V. Valley STP (150 MLD),3.4,
+G3021,12.938774,77.555289,777250.0,1431750.0,7.53,Grey Granite,100.0,FALSE,84.7,0.0,0.0,1978.0,1069.0,Lalbagh STP (1.5 MLD),3.18,
+G0120,12.935532,77.421691,762750.0,1431250.0,7.71,,0.0,,,2.76,0.0,6366.0,54.0,Doddabele STP (20 MLD),7.33,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0220,12.935489,77.426297,763250.0,1431250.0,7.23,,0.0,,,0.64,0.0,5890.0,114.0,Doddabele STP (20 MLD),6.92,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0320,12.935446,77.430902,763750.0,1431250.0,6.75,,0.0,,,2.94,0.0,5402.0,76.0,Doddabele STP (20 MLD),6.52,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0420,12.935403,77.435508,764250.0,1431250.0,6.28,,0.0,,,5.77,0.0,4917.0,22.0,Doddabele STP (20 MLD),6.14,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0520,12.93536,77.440113,764750.0,1431250.0,5.81,,0.0,,,3.61,0.0,4435.0,72.0,Doddabele STP (20 MLD),5.77,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0620,12.935317,77.444718,765250.0,1431250.0,5.35,,0.0,,,0.32,0.0,3958.0,309.0,Kengeri STP (60 MLD),5.35,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0720,12.935274,77.449324,765750.0,1431250.0,4.89,,0.0,,,2.13,0.0,3487.0,123.0,Kengeri STP (60 MLD),4.89,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0820,12.93523,77.453929,766250.0,1431250.0,4.44,,0.0,,,4.06,0.0,3025.0,78.0,Kengeri STP (60 MLD),4.44,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0920,12.935187,77.458534,766750.0,1431250.0,4.01,,0.0,,,2.39,0.0,2576.0,73.0,Kengeri STP (60 MLD),4.01,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1020,12.935144,77.46314,767250.0,1431250.0,3.59,,0.0,,,0.44,0.0,2151.0,290.0,Kengeri STP (60 MLD),3.59,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1120,12.9351,77.467745,767750.0,1431250.0,3.2,,0.0,,0.0,1.29,0.0,1704.0,189.0,Kengeri STP (60 MLD),3.2,geology missing/partial (outside Bhukosh sheet 57H09)
+G1220,12.935056,77.47235,768250.0,1431250.0,2.84,,0.0,,0.0,2.72,0.0,1212.0,122.0,Kengeri STP (60 MLD),2.84,geology missing/partial (outside Bhukosh sheet 57H09)
+G1320,12.935013,77.476956,768750.0,1431250.0,2.53,,0.0,,0.0,0.0,0.0,728.0,386.0,Kengeri STP (60 MLD),2.53,geology missing/partial (outside Bhukosh sheet 57H09)
+G1420,12.934969,77.481561,769250.0,1431250.0,2.28,,0.0,,1.6,0.96,0.96,249.0,314.0,Kengeri STP (60 MLD),2.28,geology missing/partial (outside Bhukosh sheet 57H09)
+G1520,12.934925,77.486166,769750.0,1431250.0,2.13,,0.0,,12.8,1.1,1.1,243.0,499.0,Kengeri STP (60 MLD),2.13,geology missing/partial (outside Bhukosh sheet 57H09)
+G1620,12.934881,77.490771,770250.0,1431250.0,2.09,,0.0,,73.3,0.34,0.0,738.0,200.0,Mailasandra Ph-I STP (75 MLD),1.98,geology missing/partial (outside Bhukosh sheet 57H09)
+G1720,12.934837,77.495377,770750.0,1431250.0,2.17,,0.0,,58.1,2.18,0.0,1231.0,39.0,Mailasandra Ph-I STP (75 MLD),1.7,geology missing/partial (outside Bhukosh sheet 57H09)
+G1820,12.934793,77.499982,771250.0,1431250.0,2.35,Grey Hornblende Biotite Gneiss,49.6,TRUE,23.0,0.0,0.0,874.0,330.0,Mailasandra Ph-I STP (75 MLD),1.52,geology partial
+G1920,12.934749,77.504587,771750.0,1431250.0,2.62,Grey Hornblende Biotite Gneiss,100.0,TRUE,35.5,2.19,0.0,493.0,151.0,Mailasandra Ph-I STP (75 MLD),1.51,
+G2020,12.934705,77.509192,772250.0,1431250.0,2.94,Grey Hornblende Biotite Gneiss,100.0,TRUE,7.4,3.1,1.05,202.0,189.0,V. Valley STP (150 MLD),1.14,
+G2120,12.93466,77.513797,772750.0,1431250.0,3.32,Grey Hornblende Biotite Gneiss,100.0,FALSE,36.7,5.19,4.22,22.0,133.0,V. Valley STP (150 MLD),0.64,
+G2220,12.934616,77.518402,773250.0,1431250.0,3.72,Grey Hornblende Biotite Gneiss,100.0,FALSE,3.8,3.14,2.06,45.0,46.0,V. Valley STP (150 MLD),0.14,
+G2320,12.934571,77.523007,773750.0,1431250.0,4.14,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.9,3.72,2.57,64.0,73.0,V. Valley STP (150 MLD),0.36,
+G2420,12.934527,77.527612,774250.0,1431250.0,4.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,23.5,3.57,2.9,27.0,251.0,V. Valley STP (150 MLD),0.86,
+G2520,12.934482,77.532217,774750.0,1431250.0,5.03,Grey Hornblende Biotite Gneiss,100.0,TRUE,26.6,2.5,2.5,81.0,369.0,V. Valley STP (150 MLD),1.36,
+G2620,12.934437,77.536823,775250.0,1431250.0,5.49,Grey Hornblende Biotite Gneiss,100.0,FALSE,51.4,0.13,0.0,342.0,247.0,V. Valley STP (150 MLD),1.86,
+G2720,12.934392,77.541428,775750.0,1431250.0,5.95,Grey Hornblende Biotite Gneiss,100.0,FALSE,78.4,0.0,0.0,819.0,421.0,V. Valley STP (150 MLD),2.36,
+G2820,12.934348,77.546033,776250.0,1431250.0,6.43,Grey Granite,100.0,FALSE,83.2,0.0,0.0,1281.0,863.0,V. Valley STP (150 MLD),2.86,
+G2920,12.934303,77.550638,776750.0,1431250.0,6.9,Grey Granite,100.0,FALSE,86.1,0.0,0.0,1523.0,874.0,V. Valley STP (150 MLD),3.36,
+G3020,12.934257,77.555243,777250.0,1431250.0,7.38,Grey Granite,100.0,FALSE,87.9,0.0,0.0,1479.0,671.0,Lalbagh STP (1.5 MLD),3.33,
+G3120,12.934212,77.559847,777750.0,1431250.0,7.86,Grey Granite,100.0,FALSE,81.2,0.0,0.0,1599.0,413.0,Lalbagh STP (1.5 MLD),2.87,
+G0119,12.931014,77.421648,762750.0,1430750.0,7.59,,0.0,,,2.96,0.0,6239.0,101.0,Doddabele STP (20 MLD),7.07,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0219,12.930972,77.426253,763250.0,1430750.0,7.1,,0.0,,,0.56,0.0,5752.0,193.0,Doddabele STP (20 MLD),6.64,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0319,12.930929,77.430858,763750.0,1430750.0,6.62,,0.0,,,0.71,0.0,5267.0,177.0,Doddabele STP (20 MLD),6.22,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0419,12.930886,77.435464,764250.0,1430750.0,6.13,,0.0,,,4.64,0.0,4786.0,2.0,Doddabele STP (20 MLD),5.82,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0519,12.930843,77.440069,764750.0,1430750.0,5.65,,0.0,,,1.62,0.0,4309.0,87.0,Doddabele STP (20 MLD),5.43,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0619,12.9308,77.444674,765250.0,1430750.0,5.17,,0.0,,,0.5,0.0,3830.0,237.0,Doddabele STP (20 MLD),5.07,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0719,12.930757,77.44928,765750.0,1430750.0,4.7,,0.0,,,0.0,0.0,3341.0,335.0,Kengeri STP (60 MLD),4.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0819,12.930713,77.453885,766250.0,1430750.0,4.23,,0.0,,,3.22,0.0,2856.0,84.0,Kengeri STP (60 MLD),4.23,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0919,12.93067,77.45849,766750.0,1430750.0,3.77,,0.0,,,3.25,0.0,2377.0,90.0,Kengeri STP (60 MLD),3.77,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1019,12.930626,77.463095,767250.0,1430750.0,3.33,,0.0,,,0.0,0.0,1908.0,311.0,Kengeri STP (60 MLD),3.33,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1119,12.930583,77.467701,767750.0,1430750.0,2.9,,0.0,,0.0,3.2,0.0,1460.0,1.0,Kengeri STP (60 MLD),2.9,geology missing/partial (outside Bhukosh sheet 57H09)
+G1219,12.930539,77.472306,768250.0,1430750.0,2.49,,0.0,,0.0,1.99,0.0,1056.0,77.0,Kengeri STP (60 MLD),2.49,geology missing/partial (outside Bhukosh sheet 57H09)
+G1319,12.930496,77.476911,768750.0,1430750.0,2.13,,0.0,,0.0,0.45,0.0,630.0,202.0,Kengeri STP (60 MLD),2.13,geology missing/partial (outside Bhukosh sheet 57H09)
+G1419,12.930452,77.481516,769250.0,1430750.0,1.84,,0.0,,5.7,4.02,2.15,195.0,115.0,Kengeri STP (60 MLD),1.84,geology missing/partial (outside Bhukosh sheet 57H09)
+G1519,12.930408,77.486121,769750.0,1430750.0,1.64,,0.0,,70.9,0.0,0.0,281.0,314.0,Kengeri STP (60 MLD),1.64,geology missing/partial (outside Bhukosh sheet 57H09)
+G1619,12.930364,77.490726,770250.0,1430750.0,1.59,,0.0,,68.6,0.56,0.0,781.0,283.0,Kengeri STP (60 MLD),1.59,geology missing/partial (outside Bhukosh sheet 57H09)
+G1719,12.93032,77.495332,770750.0,1430750.0,1.69,,0.0,,37.1,3.12,0.0,1037.0,43.0,Mailasandra Ph-I STP (75 MLD),1.28,geology missing/partial (outside Bhukosh sheet 57H09)
+G1819,12.930276,77.499937,771250.0,1430750.0,1.92,Grey Hornblende Biotite Gneiss,48.6,TRUE,37.0,0.39,0.0,614.0,171.0,Mailasandra Ph-I STP (75 MLD),1.04,geology partial
+G1919,12.930232,77.504542,771750.0,1430750.0,2.24,Grey Hornblende Biotite Gneiss,100.0,TRUE,18.7,3.92,0.53,264.0,15.0,Mailasandra Ph-I STP (75 MLD),1.01,
+G2019,12.930188,77.509147,772250.0,1430750.0,2.61,Grey Hornblende Biotite Gneiss,100.0,FALSE,75.5,2.58,2.27,203.0,207.0,Mailasandra Ph-I STP (75 MLD),1.22,
+G2119,12.930143,77.513752,772750.0,1430750.0,3.03,Grey Hornblende Biotite Gneiss,100.0,FALSE,73.4,0.0,0.0,355.0,628.0,V. Valley STP (150 MLD),0.82,
+G2219,12.930099,77.518357,773250.0,1430750.0,3.46,Grey Hornblende Biotite Gneiss,100.0,TRUE,54.0,1.73,1.73,158.0,498.0,V. Valley STP (150 MLD),0.54,
+G2319,12.930054,77.522962,773750.0,1430750.0,3.91,Grey Hornblende Biotite Gneiss,100.0,FALSE,46.1,0.82,0.82,229.0,360.0,V. Valley STP (150 MLD),0.64,
+G2419,12.93001,77.527567,774250.0,1430750.0,4.37,Grey Hornblende Biotite Gneiss,100.0,TRUE,30.7,3.15,0.0,441.0,47.0,V. Valley STP (150 MLD),1.01,
+G2519,12.929965,77.532172,774750.0,1430750.0,4.84,Grey Hornblende Biotite Gneiss,100.0,FALSE,45.0,2.06,0.98,235.0,122.0,V. Valley STP (150 MLD),1.46,
+G2619,12.92992,77.536777,775250.0,1430750.0,5.32,Grey Hornblende Biotite Gneiss,100.0,FALSE,80.4,2.98,1.11,217.0,205.0,V. Valley STP (150 MLD),1.94,
+G2719,12.929876,77.541382,775750.0,1430750.0,5.8,Grey Hornblende Biotite Gneiss,100.0,FALSE,79.1,0.0,0.0,611.0,389.0,V. Valley STP (150 MLD),2.42,
+G2819,12.929831,77.545987,776250.0,1430750.0,6.28,Grey Granite,100.0,FALSE,78.0,0.0,0.0,881.0,848.0,V. Valley STP (150 MLD),2.91,
+G2919,12.929786,77.550592,776750.0,1430750.0,6.77,Grey Granite,100.0,FALSE,83.2,0.0,0.0,1046.0,512.0,V. Valley STP (150 MLD),3.4,
+G3019,12.929741,77.555197,777250.0,1430750.0,7.25,Grey Granite,100.0,FALSE,82.1,1.33,0.0,981.0,213.0,Lalbagh STP (1.5 MLD),3.54,
+G3119,12.929695,77.559801,777750.0,1430750.0,7.74,Grey Granite,100.0,FALSE,86.8,2.46,0.0,1154.0,29.0,Lalbagh STP (1.5 MLD),3.12,
+G0018,12.92654,77.416999,762250.0,1430250.0,8.0,,0.0,,,1.43,0.0,6644.0,246.0,Doddabele STP (20 MLD),7.28,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0118,12.926497,77.421604,762750.0,1430250.0,7.5,,0.0,,,3.83,0.0,6149.0,151.0,Doddabele STP (20 MLD),6.83,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0218,12.926454,77.426209,763250.0,1430250.0,7.01,,0.0,,,1.46,0.0,5654.0,190.0,Doddabele STP (20 MLD),6.38,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0318,12.926412,77.430815,763750.0,1430250.0,6.52,,0.0,,,0.77,0.0,5161.0,147.0,Doddabele STP (20 MLD),5.95,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0418,12.926369,77.43542,764250.0,1430250.0,6.02,,0.0,,,4.25,0.0,4668.0,25.0,Doddabele STP (20 MLD),5.53,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0518,12.926326,77.440025,764750.0,1430250.0,5.53,,0.0,,,2.82,0.0,4178.0,100.0,Doddabele STP (20 MLD),5.12,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0618,12.926282,77.44463,765250.0,1430250.0,5.04,,0.0,,,2.02,0.0,3690.0,237.0,Doddabele STP (20 MLD),4.73,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0718,12.926239,77.449236,765750.0,1430250.0,4.56,,0.0,,,0.0,0.0,3206.0,263.0,Doddabele STP (20 MLD),4.36,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0818,12.926196,77.453841,766250.0,1430250.0,4.07,,0.0,,,1.55,0.0,2728.0,188.0,Doddabele STP (20 MLD),4.02,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0918,12.926153,77.458446,766750.0,1430250.0,3.59,,0.0,,,0.86,0.0,2258.0,233.0,Kengeri STP (60 MLD),3.59,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1018,12.926109,77.463051,767250.0,1430250.0,3.12,,0.0,,,1.94,0.0,1772.0,142.0,Kengeri STP (60 MLD),3.12,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1118,12.926066,77.467656,767750.0,1430250.0,2.66,,0.0,,0.0,0.24,0.0,1280.0,323.0,Kengeri STP (60 MLD),2.66,geology missing/partial (outside Bhukosh sheet 57H09)
+G1218,12.926022,77.472261,768250.0,1430250.0,2.21,,0.0,,2.2,0.02,0.0,796.0,263.0,Kengeri STP (60 MLD),2.21,geology missing/partial (outside Bhukosh sheet 57H09)
+G1318,12.925978,77.476866,768750.0,1430250.0,1.79,,0.0,,34.2,1.37,0.0,350.0,208.0,Kengeri STP (60 MLD),1.79,geology missing/partial (outside Bhukosh sheet 57H09)
+G1418,12.925935,77.481472,769250.0,1430250.0,1.43,,0.0,,38.7,3.64,2.44,47.0,61.0,Kengeri STP (60 MLD),1.43,geology missing/partial (outside Bhukosh sheet 57H09)
+G1518,12.925891,77.486077,769750.0,1430250.0,1.17,,0.0,,75.6,0.0,0.0,482.0,555.0,Kengeri STP (60 MLD),1.17,geology missing/partial (outside Bhukosh sheet 57H09)
+G1618,12.925847,77.490682,770250.0,1430250.0,1.09,,0.0,,65.4,1.67,0.0,649.0,117.0,Kengeri STP (60 MLD),1.09,geology missing/partial (outside Bhukosh sheet 57H09)
+G1718,12.925803,77.495287,770750.0,1430250.0,1.23,,0.0,,41.9,1.04,0.0,537.0,231.0,Mailasandra Ph-I STP (75 MLD),0.94,geology missing/partial (outside Bhukosh sheet 57H09)
+G1818,12.925759,77.499892,771250.0,1430250.0,1.53,Grey Hornblende Biotite Gneiss,47.6,TRUE,29.7,0.0,0.0,424.0,571.0,Mailasandra Ph-I STP (75 MLD),0.58,geology partial
+G1918,12.925715,77.504497,771750.0,1430250.0,1.92,Grey Hornblende Biotite Gneiss,100.0,TRUE,39.0,3.42,2.64,52.0,73.0,Mailasandra Ph-I STP (75 MLD),0.53,
+G2018,12.925671,77.509102,772250.0,1430250.0,2.34,Grey Hornblende Biotite Gneiss,100.0,FALSE,44.5,2.69,0.0,411.0,77.0,Mailasandra Ph-I STP (75 MLD),0.86,
+G2118,12.925626,77.513707,772750.0,1430250.0,2.8,Grey Hornblende Biotite Gneiss,100.0,TRUE,57.9,2.06,0.0,796.0,149.0,V. Valley STP (150 MLD),1.2,
+G2218,12.925582,77.518312,773250.0,1430250.0,3.26,Grey Hornblende Biotite Gneiss,100.0,TRUE,81.2,0.34,0.0,600.0,306.0,V. Valley STP (150 MLD),1.03,
+G2318,12.925537,77.522917,773750.0,1430250.0,3.74,Grey Hornblende Biotite Gneiss,100.0,FALSE,68.6,0.0,0.0,650.0,569.0,V. Valley STP (150 MLD),1.08,
+G2418,12.925493,77.527521,774250.0,1430250.0,4.22,Grey Hornblende Biotite Gneiss,100.0,TRUE,45.8,0.86,0.0,823.0,80.0,V. Valley STP (150 MLD),1.34,
+G2518,12.925448,77.532126,774750.0,1430250.0,4.7,Grey Hornblende Biotite Gneiss,100.0,TRUE,14.0,1.02,0.0,372.0,210.0,V. Valley STP (150 MLD),1.7,
+G2618,12.925403,77.536731,775250.0,1430250.0,5.19,Grey Hornblende Biotite Gneiss,100.0,FALSE,46.6,4.61,3.57,9.0,207.0,V. Valley STP (150 MLD),2.13,
+G2718,12.925359,77.541336,775750.0,1430250.0,5.68,Grey Hornblende Biotite Gneiss,100.0,FALSE,82.6,1.08,1.08,174.0,694.0,V. Valley STP (150 MLD),2.58,
+G2818,12.925314,77.545941,776250.0,1430250.0,6.17,Grey Granite,100.0,FALSE,84.2,0.0,0.0,571.0,911.0,V. Valley STP (150 MLD),3.04,
+G2918,12.925269,77.550546,776750.0,1430250.0,6.67,Grey Granite,100.0,FALSE,83.6,0.0,0.0,605.0,412.0,V. Valley STP (150 MLD),3.52,
+G3018,12.925224,77.555151,777250.0,1430250.0,7.16,Grey Granite,100.0,FALSE,65.8,2.08,0.0,489.0,84.0,Lalbagh STP (1.5 MLD),3.81,
+G3118,12.925179,77.559755,777750.0,1430250.0,7.65,Grey Granite,100.0,FALSE,77.3,0.0,0.0,779.0,432.0,Lalbagh STP (1.5 MLD),3.42,
+G0017,12.922023,77.416955,762250.0,1429750.0,7.95,,0.0,,,1.96,0.0,6430.0,202.0,Doddabele STP (20 MLD),7.08,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0117,12.92198,77.421561,762750.0,1429750.0,7.45,,0.0,,,2.54,0.0,6078.0,64.0,Doddabele STP (20 MLD),6.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0217,12.921937,77.426166,763250.0,1429750.0,6.95,,0.0,,,1.09,0.0,5583.0,212.0,Doddabele STP (20 MLD),6.16,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0317,12.921894,77.430771,763750.0,1429750.0,6.45,,0.0,,,1.64,0.0,5088.0,158.0,Doddabele STP (20 MLD),5.71,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0417,12.921851,77.435376,764250.0,1429750.0,5.95,,0.0,,,4.36,0.0,4595.0,16.0,Doddabele STP (20 MLD),5.27,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0517,12.921808,77.439981,764750.0,1429750.0,5.46,,0.0,,,0.41,0.0,4104.0,167.0,Doddabele STP (20 MLD),4.84,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0617,12.921765,77.444586,765250.0,1429750.0,4.96,,0.0,,,2.51,0.0,3606.0,126.0,Doddabele STP (20 MLD),4.42,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0717,12.921722,77.449192,765750.0,1429750.0,4.46,,0.0,,,1.07,0.0,3109.0,224.0,Doddabele STP (20 MLD),4.02,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0817,12.921679,77.453797,766250.0,1429750.0,3.97,,0.0,,,0.0,0.0,2613.0,458.0,Doddabele STP (20 MLD),3.65,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0917,12.921635,77.458402,766750.0,1429750.0,3.47,,0.0,,,2.83,0.0,2119.0,59.0,Doddabele STP (20 MLD),3.31,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1017,12.921592,77.463007,767250.0,1429750.0,2.98,,0.0,,,1.91,0.0,1629.0,60.0,Kengeri STP (60 MLD),2.98,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1117,12.921549,77.467612,767750.0,1429750.0,2.49,,0.0,,0.0,0.0,0.0,1147.0,320.0,Kengeri STP (60 MLD),2.49,geology missing/partial (outside Bhukosh sheet 57H09)
+G1217,12.921505,77.472217,768250.0,1429750.0,2.01,,0.0,,14.6,0.0,0.0,688.0,473.0,Kengeri STP (60 MLD),2.01,geology missing/partial (outside Bhukosh sheet 57H09)
+G1317,12.921461,77.476822,768750.0,1429750.0,1.54,,0.0,,50.6,2.04,1.14,226.0,239.0,Kengeri STP (60 MLD),1.54,geology missing/partial (outside Bhukosh sheet 57H09)
+G1417,12.921418,77.481427,769250.0,1429750.0,1.09,,0.0,,71.4,1.04,0.97,247.0,253.0,Kengeri STP (60 MLD),1.09,geology missing/partial (outside Bhukosh sheet 57H09)
+G1517,12.921374,77.486032,769750.0,1429750.0,0.72,,0.0,,72.5,0.0,0.0,664.0,486.0,Kengeri STP (60 MLD),0.72,geology missing/partial (outside Bhukosh sheet 57H09)
+G1617,12.92133,77.490637,770250.0,1429750.0,0.59,,0.0,,28.7,2.79,0.6,270.0,10.0,Kengeri STP (60 MLD),0.59,geology missing/partial (outside Bhukosh sheet 57H09)
+G1717,12.921286,77.495242,770750.0,1429750.0,0.82,,0.0,,0.0,2.26,2.26,38.0,453.0,Mailasandra Ph-I STP (75 MLD),0.8,geology missing/partial (outside Bhukosh sheet 57H09)
+G1817,12.921242,77.499847,771250.0,1429750.0,1.23,Grey Hornblende Biotite Gneiss,46.7,FALSE,0.3,2.26,2.26,13.0,287.0,Mailasandra Ph-I STP (75 MLD),0.3,geology partial
+G1917,12.921198,77.504452,771750.0,1429750.0,1.68,Grey Hornblende Biotite Gneiss,100.0,FALSE,20.7,2.99,1.8,129.0,222.0,Mailasandra Ph-I STP (75 MLD),0.2,
+G2017,12.921154,77.509057,772250.0,1429750.0,2.16,Grey Hornblende Biotite Gneiss,100.0,FALSE,68.4,0.63,0.0,601.0,273.0,Mailasandra Ph-I STP (75 MLD),0.7,
+G2117,12.921109,77.513661,772750.0,1429750.0,2.64,Grey Hornblende Biotite Gneiss,100.0,TRUE,75.1,1.78,0.0,1033.0,95.0,Mailasandra Ph-I STP (75 MLD),1.2,
+G2217,12.921065,77.518266,773250.0,1429750.0,3.13,Grey Hornblende Biotite Gneiss,100.0,TRUE,74.1,2.67,0.0,1089.0,76.0,V. Valley STP (150 MLD),1.53,
+G2317,12.92102,77.522871,773750.0,1429750.0,3.62,Grey Hornblende Biotite Gneiss,100.0,FALSE,70.0,0.0,0.0,1118.0,359.0,V. Valley STP (150 MLD),1.57,
+G2417,12.920976,77.527476,774250.0,1429750.0,4.12,Grey Hornblende Biotite Gneiss,100.0,TRUE,49.3,0.0,0.0,1045.0,292.0,V. Valley STP (150 MLD),1.75,
+G2517,12.920931,77.532081,774750.0,1429750.0,4.61,Grey Hornblende Biotite Gneiss,100.0,TRUE,12.6,2.09,0.0,590.0,147.0,V. Valley STP (150 MLD),2.04,
+G2617,12.920887,77.536686,775250.0,1429750.0,5.11,Grey Hornblende Biotite Gneiss,100.0,FALSE,57.4,1.07,1.07,248.0,480.0,V. Valley STP (150 MLD),2.41,
+G2717,12.920842,77.54129,775750.0,1429750.0,5.61,Grey Hornblende Biotite Gneiss,100.0,FALSE,84.6,1.84,1.84,212.0,864.0,V. Valley STP (150 MLD),2.81,
+G2817,12.920797,77.545895,776250.0,1429750.0,6.1,Grey Granite,100.0,FALSE,82.2,2.42,2.42,79.0,853.0,V. Valley STP (150 MLD),3.24,
+G2917,12.920752,77.5505,776750.0,1429750.0,6.6,Grey Granite,100.0,FALSE,81.9,2.12,2.12,140.0,356.0,V. Valley STP (150 MLD),3.69,
+G3017,12.920707,77.555105,777250.0,1429750.0,7.1,Grey Granite,100.0,FALSE,87.7,3.28,0.71,121.0,39.0,Sarakki STP (5 MLD),3.58,
+G3117,12.920662,77.559709,777750.0,1429750.0,7.6,Grey Granite,100.0,FALSE,60.7,3.06,0.0,619.0,63.0,Sarakki STP (5 MLD),3.21,
+G0016,12.917505,77.416912,762250.0,1429250.0,7.92,,0.0,,,1.61,0.0,6016.0,227.0,Doddabele STP (20 MLD),6.92,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0116,12.917463,77.421517,762750.0,1429250.0,7.42,,0.0,,,3.49,0.0,5740.0,50.0,Doddabele STP (20 MLD),6.44,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0216,12.91742,77.426122,763250.0,1429250.0,6.92,,0.0,,,3.06,0.0,5496.0,66.0,Doddabele STP (20 MLD),5.97,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0316,12.917377,77.430727,763750.0,1429250.0,6.42,,0.0,,,3.77,0.0,5034.0,170.0,Doddabele STP (20 MLD),5.5,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0416,12.917334,77.435332,764250.0,1429250.0,5.92,,0.0,,,2.49,0.0,4535.0,77.0,Doddabele STP (20 MLD),5.04,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0516,12.917291,77.439937,764750.0,1429250.0,5.42,,0.0,,,0.0,0.0,4037.0,294.0,Doddabele STP (20 MLD),4.59,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0616,12.917248,77.444542,765250.0,1429250.0,4.92,,0.0,,,1.98,0.0,3538.0,41.0,Doddabele STP (20 MLD),4.15,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0716,12.917205,77.449148,765750.0,1429250.0,4.42,,0.0,,,2.17,0.0,3040.0,210.0,Doddabele STP (20 MLD),3.72,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0816,12.917162,77.453753,766250.0,1429250.0,3.92,,0.0,,,0.27,0.0,2543.0,201.0,Doddabele STP (20 MLD),3.32,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0916,12.917118,77.458358,766750.0,1429250.0,3.42,,0.0,,,2.98,0.0,2047.0,221.0,Doddabele STP (20 MLD),2.94,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1016,12.917075,77.462963,767250.0,1429250.0,2.92,,0.0,,,4.15,0.0,1554.0,76.0,Doddabele STP (20 MLD),2.61,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1116,12.917031,77.467568,767750.0,1429250.0,2.43,,0.0,,0.0,1.25,0.0,1067.0,140.0,Doddabele STP (20 MLD),2.34,geology missing/partial (outside Bhukosh sheet 57H09)
+G1216,12.916988,77.472172,768250.0,1429250.0,1.93,,0.0,,33.9,0.38,0.0,581.0,202.0,Kengeri STP (60 MLD),1.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1316,12.916944,77.476777,768750.0,1429250.0,1.43,,0.0,,56.5,3.49,2.3,121.0,190.0,Kengeri STP (60 MLD),1.43,geology missing/partial (outside Bhukosh sheet 57H09)
+G1416,12.916901,77.481382,769250.0,1429250.0,0.93,,0.0,,64.1,0.0,0.0,368.0,538.0,Kengeri STP (60 MLD),0.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1516,12.916857,77.485987,769750.0,1429250.0,0.43,,0.0,,38.8,0.0,0.0,535.0,551.0,Kengeri STP (60 MLD),0.43,geology missing/partial (outside Bhukosh sheet 57H09)
+G1616,12.916813,77.490592,770250.0,1429250.0,0.12,,0.0,,31.3,2.58,2.08,55.0,219.0,Kengeri STP (60 MLD),0.12,geology missing/partial (outside Bhukosh sheet 57H09)
+G1716,12.916769,77.495197,770750.0,1429250.0,0.58,,0.0,,31.3,0.0,0.0,412.0,385.0,Kengeri STP (60 MLD),0.58,geology missing/partial (outside Bhukosh sheet 57H09)
+G1816,12.916725,77.499802,771250.0,1429250.0,1.08,Grey Hornblende Biotite Gneiss,45.7,FALSE,35.9,0.0,0.0,494.0,418.0,Mailasandra Ph-I STP (75 MLD),0.59,geology partial
+G1916,12.916681,77.504407,771750.0,1429250.0,1.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,35.9,2.89,0.0,474.0,3.0,Mailasandra Ph-I STP (75 MLD),0.54,
+G2016,12.916636,77.509011,772250.0,1429250.0,2.08,Grey Hornblende Biotite Gneiss,100.0,FALSE,56.6,2.19,0.0,800.0,72.0,Mailasandra Ph-I STP (75 MLD),0.86,
+G2116,12.916592,77.513616,772750.0,1429250.0,2.58,Grey Hornblende Biotite Gneiss,100.0,TRUE,61.9,0.5,0.0,1242.0,280.0,Mailasandra Ph-I STP (75 MLD),1.3,
+G2216,12.916548,77.518221,773250.0,1429250.0,3.08,Grey Hornblende Biotite Gneiss,100.0,FALSE,70.7,1.09,0.0,1584.0,225.0,Mailasandra Ph-I STP (75 MLD),1.77,
+G2316,12.916503,77.522826,773750.0,1429250.0,3.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,67.7,2.36,0.0,1605.0,20.0,V. Valley STP (150 MLD),2.05,
+G2416,12.916459,77.527431,774250.0,1429250.0,4.08,Grey Hornblende Biotite Gneiss,100.0,TRUE,51.2,3.12,0.0,1188.0,120.0,V. Valley STP (150 MLD),2.2,
+G2516,12.916414,77.532035,774750.0,1429250.0,4.58,Granodiorite,100.0,TRUE,18.2,2.76,0.0,702.0,109.0,V. Valley STP (150 MLD),2.44,
+G2616,12.91637,77.53664,775250.0,1429250.0,5.08,Grey Hornblende Biotite Gneiss,100.0,FALSE,37.9,1.37,0.63,264.0,172.0,V. Valley STP (150 MLD),2.75,
+G2716,12.916325,77.541245,775750.0,1429250.0,5.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,80.9,1.6,1.6,207.0,627.0,V. Valley STP (150 MLD),3.11,
+G2816,12.91628,77.545849,776250.0,1429250.0,6.08,Grey Granite,100.0,FALSE,83.8,0.0,0.0,295.0,645.0,V. Valley STP (150 MLD),3.51,
+G2916,12.916235,77.550454,776750.0,1429250.0,6.58,Grey Granite,100.0,FALSE,84.4,0.0,0.0,354.0,650.0,Sarakki STP (5 MLD),3.7,
+G3016,12.91619,77.555059,777250.0,1429250.0,7.08,Grey Granite,100.0,FALSE,77.2,0.0,0.0,471.0,489.0,Sarakki STP (5 MLD),3.27,
+G3116,12.916145,77.559663,777750.0,1429250.0,7.58,Grey Granite,100.0,FALSE,80.0,0.0,0.0,810.0,281.0,Sarakki STP (5 MLD),2.87,
+G0015,12.912988,77.416868,762250.0,1428750.0,7.93,,0.0,,,0.05,0.0,5616.0,270.0,Doddabele STP (20 MLD),6.78,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0115,12.912945,77.421474,762750.0,1428750.0,7.43,,0.0,,,0.0,0.0,5320.0,426.0,Doddabele STP (20 MLD),6.3,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0215,12.912902,77.426079,763250.0,1428750.0,6.94,,0.0,,,0.0,0.0,5056.0,351.0,Doddabele STP (20 MLD),5.82,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0315,12.91286,77.430684,763750.0,1428750.0,6.44,,0.0,,,3.23,0.0,4829.0,124.0,Doddabele STP (20 MLD),5.34,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0415,12.912817,77.435289,764250.0,1428750.0,5.94,,0.0,,,4.66,0.0,4530.0,97.0,Doddabele STP (20 MLD),4.86,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0515,12.912774,77.439894,764750.0,1428750.0,5.44,,0.0,,,2.05,0.0,4030.0,101.0,Doddabele STP (20 MLD),4.39,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0615,12.912731,77.444499,765250.0,1428750.0,4.94,,0.0,,,1.42,0.0,3531.0,224.0,Doddabele STP (20 MLD),3.93,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0715,12.912688,77.449104,765750.0,1428750.0,4.44,,0.0,,,0.6,0.0,3032.0,267.0,Doddabele STP (20 MLD),3.47,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0815,12.912644,77.453708,766250.0,1428750.0,3.95,,0.0,,,0.87,0.0,2533.0,49.0,Doddabele STP (20 MLD),3.03,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0915,12.912601,77.458313,766750.0,1428750.0,3.45,,0.0,,,4.52,0.0,2035.0,128.0,Doddabele STP (20 MLD),2.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1015,12.912558,77.462918,767250.0,1428750.0,2.95,,0.0,,,1.4,0.0,1538.0,83.0,Doddabele STP (20 MLD),2.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1115,12.912514,77.467523,767750.0,1428750.0,2.46,,0.0,,0.0,0.0,0.0,1044.0,266.0,Doddabele STP (20 MLD),1.91,geology missing/partial (outside Bhukosh sheet 57H09)
+G1215,12.912471,77.472128,768250.0,1428750.0,1.97,,0.0,,36.8,0.46,0.0,560.0,137.0,Doddabele STP (20 MLD),1.67,geology missing/partial (outside Bhukosh sheet 57H09)
+G1315,12.912427,77.476733,768750.0,1428750.0,1.48,,0.0,,48.9,2.42,2.15,116.0,227.0,Kengeri STP (60 MLD),1.48,geology missing/partial (outside Bhukosh sheet 57H09)
+G1415,12.912383,77.481338,769250.0,1428750.0,1.01,,0.0,,73.9,0.0,0.0,375.0,513.0,Kengeri STP (60 MLD),1.01,geology missing/partial (outside Bhukosh sheet 57H09)
+G1515,12.91234,77.485943,769750.0,1428750.0,0.59,,0.0,,48.0,1.37,1.37,156.0,412.0,Kengeri STP (60 MLD),0.59,geology missing/partial (outside Bhukosh sheet 57H09)
+G1615,12.912296,77.490547,770250.0,1428750.0,0.42,,0.0,,6.8,2.3,1.74,68.0,277.0,Kengeri STP (60 MLD),0.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1715,12.912252,77.495152,770750.0,1428750.0,0.71,,0.0,,15.8,2.32,0.0,535.0,33.0,Kengeri STP (60 MLD),0.71,geology missing/partial (outside Bhukosh sheet 57H09)
+G1815,12.912208,77.499757,771250.0,1428750.0,1.15,Grey Hornblende Biotite Gneiss,44.7,TRUE,30.7,0.81,0.0,971.0,240.0,Mailasandra Ph-I STP (75 MLD),1.05,geology partial
+G1915,12.912164,77.504362,771750.0,1428750.0,1.63,Grey Hornblende Biotite Gneiss,100.0,FALSE,22.1,0.32,0.0,952.0,307.0,Mailasandra Ph-I STP (75 MLD),1.02,
+G2015,12.912119,77.508966,772250.0,1428750.0,2.12,Grey Hornblende Biotite Gneiss,100.0,TRUE,62.4,2.26,0.0,1158.0,117.0,Mailasandra Ph-I STP (75 MLD),1.22,
+G2115,12.912075,77.513571,772750.0,1428750.0,2.61,Grey Hornblende Biotite Gneiss,100.0,TRUE,38.3,0.77,0.0,1501.0,135.0,Mailasandra Ph-I STP (75 MLD),1.56,
+G2215,12.912031,77.518176,773250.0,1428750.0,3.1,Grey Hornblende Biotite Gneiss,100.0,TRUE,66.2,0.0,0.0,1913.0,529.0,Mailasandra Ph-I STP (75 MLD),1.97,
+G2315,12.911986,77.52278,773750.0,1428750.0,3.6,Grey Hornblende Biotite Gneiss,100.0,FALSE,81.9,0.0,0.0,1814.0,420.0,Mailasandra Ph-I STP (75 MLD),2.42,
+G2415,12.911942,77.527385,774250.0,1428750.0,4.1,Grey Hornblende Biotite Gneiss,100.0,TRUE,47.0,0.0,0.0,1367.0,345.0,V. Valley STP (150 MLD),2.67,
+G2515,12.911897,77.53199,774750.0,1428750.0,4.59,Granodiorite,100.0,TRUE,28.7,3.15,0.0,971.0,31.0,V. Valley STP (150 MLD),2.87,
+G2615,12.911853,77.536594,775250.0,1428750.0,5.09,Grey Hornblende Biotite Gneiss,100.0,FALSE,78.9,0.05,0.0,693.0,326.0,V. Valley STP (150 MLD),3.14,
+G2715,12.911808,77.541199,775750.0,1428750.0,5.59,Grey Hornblende Biotite Gneiss,100.0,FALSE,80.0,0.0,0.0,662.0,344.0,V. Valley STP (150 MLD),3.46,
+G2815,12.911763,77.545804,776250.0,1428750.0,6.09,Grey Hornblende Biotite Gneiss,100.0,FALSE,83.6,1.25,0.0,782.0,150.0,V. Valley STP (150 MLD),3.82,
+G2915,12.911718,77.550408,776750.0,1428750.0,6.59,Grey Granite,100.0,FALSE,66.4,0.0,0.0,853.0,471.0,Sarakki STP (5 MLD),3.48,
+G3015,12.911673,77.555013,777250.0,1428750.0,7.09,Grey Granite,100.0,FALSE,62.6,0.0,0.0,926.0,411.0,Sarakki STP (5 MLD),3.02,
+G3115,12.911628,77.559617,777750.0,1428750.0,7.59,Grey Granite,100.0,FALSE,79.1,0.69,0.0,1173.0,165.0,Sarakki STP (5 MLD),2.58,
+G0014,12.90847,77.416825,762250.0,1428250.0,7.98,,0.0,,,2.1,0.0,5233.0,226.0,Doddabele STP (20 MLD),6.69,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0114,12.908428,77.42143,762750.0,1428250.0,7.48,,0.0,,,0.88,0.0,4914.0,44.0,Doddabele STP (20 MLD),6.19,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0214,12.908385,77.426035,763250.0,1428250.0,6.98,,0.0,,,1.69,0.0,4627.0,138.0,Doddabele STP (20 MLD),5.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0314,12.908342,77.43064,763750.0,1428250.0,6.49,,0.0,,,1.58,0.0,4378.0,254.0,Doddabele STP (20 MLD),5.21,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0414,12.908299,77.435245,764250.0,1428250.0,5.99,,0.0,,,1.66,0.0,4174.0,221.0,Doddabele STP (20 MLD),4.72,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0514,12.908257,77.43985,764750.0,1428250.0,5.5,,0.0,,,4.46,0.0,4018.0,10.0,Doddabele STP (20 MLD),4.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0614,12.908213,77.444455,765250.0,1428250.0,5.01,,0.0,,,2.99,0.0,3577.0,29.0,Doddabele STP (20 MLD),3.75,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0714,12.90817,77.44906,765750.0,1428250.0,4.52,,0.0,,,0.0,0.0,3077.0,374.0,Doddabele STP (20 MLD),3.28,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0814,12.908127,77.453664,766250.0,1428250.0,4.03,,0.0,,,2.51,0.0,2578.0,63.0,Doddabele STP (20 MLD),2.81,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0914,12.908084,77.458269,766750.0,1428250.0,3.54,,0.0,,,2.64,0.0,2078.0,72.0,Doddabele STP (20 MLD),2.35,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1014,12.908041,77.462874,767250.0,1428250.0,3.06,,0.0,,,0.0,0.0,1579.0,405.0,Doddabele STP (20 MLD),1.92,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1114,12.907997,77.467479,767750.0,1428250.0,2.59,,0.0,,3.5,2.0,0.0,1081.0,92.0,Doddabele STP (20 MLD),1.53,geology missing/partial (outside Bhukosh sheet 57H09)
+G1214,12.907954,77.472084,768250.0,1428250.0,2.13,,0.0,,15.3,2.25,0.0,586.0,74.0,Doddabele STP (20 MLD),1.22,geology missing/partial (outside Bhukosh sheet 57H09)
+G1314,12.90791,77.476688,768750.0,1428250.0,1.69,,0.0,,23.1,2.06,2.06,116.0,558.0,Doddabele STP (20 MLD),1.07,geology missing/partial (outside Bhukosh sheet 57H09)
+G1414,12.907866,77.481293,769250.0,1428250.0,1.3,,0.0,,55.6,1.91,1.91,204.0,587.0,Doddabele STP (20 MLD),1.13,geology missing/partial (outside Bhukosh sheet 57H09)
+G1514,12.907822,77.485898,769750.0,1428250.0,1.01,,0.0,,18.9,3.68,3.68,92.0,333.0,Kengeri STP (60 MLD),1.01,geology missing/partial (outside Bhukosh sheet 57H09)
+G1614,12.907779,77.490503,770250.0,1428250.0,0.91,,0.0,,48.2,2.49,0.46,287.0,155.0,Kengeri STP (60 MLD),0.91,geology missing/partial (outside Bhukosh sheet 57H09)
+G1714,12.907735,77.495107,770750.0,1428250.0,1.08,,0.0,,3.9,3.36,0.0,748.0,64.0,Kengeri STP (60 MLD),1.08,geology missing/partial (outside Bhukosh sheet 57H09)
+G1814,12.907691,77.499712,771250.0,1428250.0,1.41,Grey Hornblende Biotite Gneiss,43.7,TRUE,5.4,0.68,0.0,1183.0,187.0,Kengeri STP (60 MLD),1.41,geology partial
+G1914,12.907647,77.504317,771750.0,1428250.0,1.82,Grey Hornblende Biotite Gneiss,100.0,TRUE,23.2,0.0,0.0,1445.0,501.0,Mailasandra Ph-I STP (75 MLD),1.52,
+G2014,12.907602,77.508921,772250.0,1428250.0,2.27,Grey Hornblende Biotite Gneiss,100.0,TRUE,57.0,3.75,0.0,1591.0,170.0,Mailasandra Ph-I STP (75 MLD),1.66,
+G2114,12.907558,77.513526,772750.0,1428250.0,2.73,Grey Hornblende Biotite Gneiss,100.0,TRUE,59.8,2.81,0.0,1859.0,73.0,Mailasandra Ph-I STP (75 MLD),1.92,
+G2214,12.907514,77.518131,773250.0,1428250.0,3.21,Grey Hornblende Biotite Gneiss,100.0,TRUE,49.6,2.15,0.0,2206.0,191.0,Mailasandra Ph-I STP (75 MLD),2.27,
+G2314,12.907469,77.522735,773750.0,1428250.0,3.69,Grey Hornblende Biotite Gneiss,100.0,TRUE,57.5,2.0,0.0,2060.0,94.0,Mailasandra Ph-I STP (75 MLD),2.66,
+G2414,12.907425,77.52734,774250.0,1428250.0,4.18,Grey Hornblende Biotite Gneiss,100.0,TRUE,37.2,2.2,0.0,1678.0,95.0,Mailasandra Ph-I STP (75 MLD),3.09,
+G2514,12.90738,77.531944,774750.0,1428250.0,4.67,Granodiorite,100.0,TRUE,42.6,0.17,0.0,1372.0,266.0,V. Valley STP (150 MLD),3.32,
+G2614,12.907336,77.536549,775250.0,1428250.0,5.16,Grey Hornblende Biotite Gneiss,100.0,FALSE,59.5,0.4,0.0,1167.0,281.0,V. Valley STP (150 MLD),3.55,
+G2714,12.907291,77.541153,775750.0,1428250.0,5.65,Grey Hornblende Biotite Gneiss,100.0,FALSE,55.5,2.57,0.0,1149.0,14.0,V. Valley STP (150 MLD),3.84,
+G2814,12.907246,77.545758,776250.0,1428250.0,6.14,Grey Hornblende Biotite Gneiss,100.0,FALSE,81.0,0.19,0.0,1273.0,241.0,Sarakki STP (5 MLD),3.8,
+G2914,12.907201,77.550362,776750.0,1428250.0,6.64,Grey Hornblende Biotite Gneiss,100.0,FALSE,83.4,0.0,0.0,1353.0,376.0,Sarakki STP (5 MLD),3.32,
+G3014,12.907156,77.554967,777250.0,1428250.0,7.13,Grey Hornblende Biotite Gneiss,100.0,TRUE,76.7,2.35,0.0,1412.0,13.0,Sarakki STP (5 MLD),2.84,
+G3114,12.907111,77.559571,777750.0,1428250.0,7.63,Grey Granite,100.0,FALSE,78.5,1.45,0.0,1585.0,204.0,Sarakki STP (5 MLD),2.36,
+G0113,12.903911,77.421387,762750.0,1427750.0,7.56,,0.0,,,2.08,0.0,4527.0,43.0,Doddabele STP (20 MLD),6.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0213,12.903868,77.425991,763250.0,1427750.0,7.07,,0.0,,,0.76,0.0,4214.0,157.0,Doddabele STP (20 MLD),5.63,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0313,12.903825,77.430596,763750.0,1427750.0,6.58,,0.0,,,1.46,0.0,3940.0,29.0,Doddabele STP (20 MLD),5.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0413,12.903782,77.435201,764250.0,1427750.0,6.09,,0.0,,,0.0,0.0,3712.0,303.0,Doddabele STP (20 MLD),4.64,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0513,12.903739,77.439806,764750.0,1427750.0,5.6,,0.0,,,1.03,0.0,3539.0,224.0,Doddabele STP (20 MLD),4.14,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0613,12.903696,77.444411,765250.0,1427750.0,5.12,,0.0,,,2.33,0.0,3363.0,162.0,Doddabele STP (20 MLD),3.65,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0713,12.903653,77.449016,765750.0,1427750.0,4.64,,0.0,,,0.38,0.0,3033.0,159.0,Doddabele STP (20 MLD),3.15,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0813,12.90361,77.45362,766250.0,1427750.0,4.17,,0.0,,,3.45,0.0,2563.0,31.0,Doddabele STP (20 MLD),2.66,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0913,12.903567,77.458225,766750.0,1427750.0,3.7,,0.0,,,2.09,0.0,2106.0,58.0,Doddabele STP (20 MLD),2.18,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1013,12.903523,77.46283,767250.0,1427750.0,3.25,,0.0,,,1.15,0.0,1670.0,68.0,Doddabele STP (20 MLD),1.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1113,12.90348,77.467434,767750.0,1427750.0,2.8,,0.0,,14.4,3.55,0.0,1224.0,30.0,Doddabele STP (20 MLD),1.24,geology missing/partial (outside Bhukosh sheet 57H09)
+G1213,12.903436,77.472039,768250.0,1427750.0,2.39,,0.0,,16.3,0.89,0.0,735.0,232.0,Doddabele STP (20 MLD),0.82,geology missing/partial (outside Bhukosh sheet 57H09)
+G1313,12.903393,77.476644,768750.0,1427750.0,2.0,,0.0,,33.4,0.78,0.78,257.0,475.0,Doddabele STP (20 MLD),0.57,geology missing/partial (outside Bhukosh sheet 57H09)
+G1413,12.903349,77.481249,769250.0,1427750.0,1.69,,0.0,,11.9,2.81,2.81,160.0,483.0,Doddabele STP (20 MLD),0.69,geology missing/partial (outside Bhukosh sheet 57H09)
+G1513,12.903305,77.485853,769750.0,1427750.0,1.47,,0.0,,34.5,3.29,1.95,143.0,44.0,Doddabele STP (20 MLD),1.06,geology missing/partial (outside Bhukosh sheet 57H09)
+G1613,12.903262,77.490458,770250.0,1427750.0,1.41,,0.0,,21.9,0.0,0.0,440.0,332.0,Kengeri STP (60 MLD),1.41,geology missing/partial (outside Bhukosh sheet 57H09)
+G1713,12.903218,77.495062,770750.0,1427750.0,1.52,,0.0,,8.1,2.15,0.0,908.0,163.0,Kengeri STP (60 MLD),1.52,geology missing/partial (outside Bhukosh sheet 57H09)
+G1813,12.903174,77.499667,771250.0,1427750.0,1.78,Grey Hornblende Biotite Gneiss,42.8,TRUE,1.4,2.68,0.0,1393.0,64.0,Kengeri STP (60 MLD),1.78,geology partial
+G1913,12.90313,77.504272,771750.0,1427750.0,2.12,Grey Hornblende Biotite Gneiss,100.0,TRUE,12.7,0.16,0.0,1855.0,314.0,Mailasandra Ph-I STP (75 MLD),2.02,
+G2013,12.903085,77.508876,772250.0,1427750.0,2.51,Grey Hornblende Biotite Gneiss,100.0,TRUE,47.5,3.34,0.0,2053.0,172.0,Mailasandra Ph-I STP (75 MLD),2.12,
+G2113,12.903041,77.513481,772750.0,1427750.0,2.94,Grey Hornblende Biotite Gneiss,100.0,TRUE,36.4,3.58,0.0,2269.0,102.0,Mailasandra Ph-I STP (75 MLD),2.34,
+G2213,12.902997,77.518085,773250.0,1427750.0,3.38,Grey Hornblende Biotite Gneiss,100.0,FALSE,44.9,0.33,0.0,2563.0,223.0,Mailasandra Ph-I STP (75 MLD),2.63,
+G2313,12.902952,77.52269,773750.0,1427750.0,3.85,Grey Hornblende Biotite Gneiss,100.0,TRUE,62.4,0.0,0.0,2386.0,406.0,Mailasandra Ph-I STP (75 MLD),2.98,
+G2413,12.902908,77.527294,774250.0,1427750.0,4.31,Grey Hornblende Biotite Gneiss,100.0,TRUE,59.9,0.95,0.0,2064.0,88.0,Mailasandra Ph-I STP (75 MLD),3.36,
+G2513,12.902863,77.531899,774750.0,1427750.0,4.79,Granodiorite,100.0,FALSE,35.5,1.15,0.0,1810.0,65.0,Mailasandra Ph-I STP (75 MLD),3.78,
+G2613,12.902819,77.536503,775250.0,1427750.0,5.27,Grey Hornblende Biotite Gneiss,100.0,FALSE,55.4,3.93,0.0,1656.0,91.0,V. Valley STP (150 MLD),3.98,
+G2713,12.902774,77.541108,775750.0,1427750.0,5.75,Grey Hornblende Biotite Gneiss,100.0,FALSE,48.8,2.43,0.0,1644.0,115.0,Sarakki STP (5 MLD),4.23,
+G2813,12.902729,77.545712,776250.0,1427750.0,6.24,Grey Hornblende Biotite Gneiss,100.0,FALSE,70.0,3.94,0.0,1767.0,71.0,Sarakki STP (5 MLD),3.73,
+G2913,12.902684,77.550317,776750.0,1427750.0,6.73,Granitoid,100.0,FALSE,32.3,3.55,0.0,1853.0,34.0,Sarakki STP (5 MLD),3.23,
+G3013,12.902639,77.554921,777250.0,1427750.0,7.22,Grey Hornblende Biotite Gneiss,100.0,TRUE,65.7,4.29,0.0,1905.0,96.0,Sarakki STP (5 MLD),2.73,
+G3113,12.902594,77.559525,777750.0,1427750.0,7.71,Grey Granite,100.0,FALSE,73.7,2.76,0.0,2037.0,63.0,Sarakki STP (5 MLD),2.24,
+G0112,12.899393,77.421343,762750.0,1427250.0,7.67,,0.0,,,3.37,0.0,4164.0,71.0,Doddabele STP (20 MLD),6.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0212,12.899351,77.425948,763250.0,1427250.0,7.18,,0.0,,,2.25,0.0,3822.0,50.0,Doddabele STP (20 MLD),5.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0312,12.899308,77.430553,763750.0,1427250.0,6.7,,0.0,,,0.0,0.0,3517.0,327.0,Doddabele STP (20 MLD),5.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0412,12.899265,77.435157,764250.0,1427250.0,6.22,,0.0,,,1.97,0.0,3260.0,54.0,Doddabele STP (20 MLD),4.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0512,12.899222,77.439762,764750.0,1427250.0,5.75,,0.0,,,2.34,0.0,3063.0,205.0,Doddabele STP (20 MLD),4.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0612,12.899179,77.444367,765250.0,1427250.0,5.28,,0.0,,,3.86,0.0,2922.0,86.0,Doddabele STP (20 MLD),3.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0712,12.899136,77.448972,765750.0,1427250.0,4.82,,0.0,,,2.97,0.0,2663.0,30.0,Doddabele STP (20 MLD),3.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0812,12.899093,77.453576,766250.0,1427250.0,4.36,,0.0,,,0.13,0.0,2408.0,332.0,Doddabele STP (20 MLD),2.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0912,12.899049,77.458181,766750.0,1427250.0,3.92,,0.0,,,3.66,0.0,1932.0,23.0,Doddabele STP (20 MLD),2.1,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1012,12.899006,77.462786,767250.0,1427250.0,3.49,,0.0,,,3.76,0.0,1452.0,24.0,Doddabele STP (20 MLD),1.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1112,12.898963,77.46739,767750.0,1427250.0,3.09,,0.0,,6.0,3.19,0.0,988.0,47.0,Doddabele STP (20 MLD),1.1,geology missing/partial (outside Bhukosh sheet 57H09)
+G1212,12.898919,77.471995,768250.0,1427250.0,2.71,,0.0,,4.8,0.23,0.0,573.0,313.0,Doddabele STP (20 MLD),0.6,geology missing/partial (outside Bhukosh sheet 57H09)
+G1312,12.898876,77.476599,768750.0,1427250.0,2.38,,0.0,,21.7,2.81,1.62,232.0,23.0,Doddabele STP (20 MLD),0.12,geology missing/partial (outside Bhukosh sheet 57H09)
+G1412,12.898832,77.481204,769250.0,1427250.0,2.12,,0.0,,31.2,1.1,1.1,235.0,466.0,Doddabele STP (40 MLD),0.4,geology missing/partial (outside Bhukosh sheet 57H09)
+G1512,12.898788,77.485809,769750.0,1427250.0,1.96,,0.0,,48.6,0.0,0.0,549.0,402.0,Doddabele STP (40 MLD),0.9,geology missing/partial (outside Bhukosh sheet 57H09)
+G1612,12.898744,77.490413,770250.0,1427250.0,1.91,,0.0,,24.2,0.0,0.0,791.0,458.0,Doddabele STP (40 MLD),1.4,geology missing/partial (outside Bhukosh sheet 57H09)
+G1712,12.898701,77.495018,770750.0,1427250.0,2.0,,0.0,,2.0,1.6,0.0,1132.0,161.0,Doddabele STP (40 MLD),1.9,geology missing/partial (outside Bhukosh sheet 57H09)
+G1812,12.898657,77.499622,771250.0,1427250.0,2.19,Grey Hornblende Biotite Gneiss,41.8,TRUE,0.0,1.46,0.0,1558.0,3.0,Kengeri STP (60 MLD),2.19,geology partial
+G1912,12.898613,77.504227,771750.0,1427250.0,2.48,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,0.17,0.0,2017.0,292.0,Kengeri STP (60 MLD),2.48,
+G2012,12.898568,77.508831,772250.0,1427250.0,2.82,Grey Hornblende Biotite Gneiss,100.0,TRUE,31.1,3.28,0.0,2489.0,108.0,Mailasandra Ph-I STP (75 MLD),2.6,
+G2112,12.898524,77.513436,772750.0,1427250.0,3.21,Grey Hornblende Biotite Gneiss,100.0,TRUE,5.2,3.2,0.0,2709.0,24.0,Mailasandra Ph-I STP (75 MLD),2.78,
+G2212,12.89848,77.51804,773250.0,1427250.0,3.62,Grey Hornblende Biotite Gneiss,100.0,TRUE,15.7,0.92,0.0,2960.0,217.0,Mailasandra Ph-I STP (75 MLD),3.03,
+G2312,12.898435,77.522645,773750.0,1427250.0,4.06,Grey Hornblende Biotite Gneiss,100.0,TRUE,41.4,3.86,0.0,2763.0,92.0,Mailasandra Ph-I STP (75 MLD),3.33,
+G2412,12.898391,77.527249,774250.0,1427250.0,4.5,Grey Hornblende Biotite Gneiss,100.0,TRUE,19.1,0.96,0.0,2486.0,226.0,Mailasandra Ph-I STP (75 MLD),3.68,
+G2512,12.898346,77.531853,774750.0,1427250.0,4.96,Granodiorite,100.0,FALSE,21.7,3.8,0.0,2272.0,46.0,Mailasandra Ph-I STP (75 MLD),4.06,
+G2612,12.898302,77.536458,775250.0,1427250.0,5.42,Grey Hornblende Biotite Gneiss,100.0,FALSE,48.3,2.52,0.0,2150.0,148.0,V. Valley STP (150 MLD),4.43,
+G2712,12.898257,77.541062,775750.0,1427250.0,5.9,Grey Hornblende Biotite Gneiss,100.0,FALSE,26.0,3.21,0.0,2141.0,30.0,Sarakki STP (5 MLD),4.22,
+G2812,12.898212,77.545666,776250.0,1427250.0,6.37,Grey Hornblende Biotite Gneiss,100.0,FALSE,36.9,0.0,0.0,2243.0,380.0,Sarakki STP (5 MLD),3.72,
+G2912,12.898167,77.550271,776750.0,1427250.0,6.85,Grey Hornblende Biotite Gneiss,100.0,FALSE,77.8,0.73,0.0,2353.0,263.0,Sarakki STP (5 MLD),3.22,
+G3012,12.898123,77.554875,777250.0,1427250.0,7.33,Grey Hornblende Biotite Gneiss,100.0,TRUE,57.9,2.3,0.0,2397.0,16.0,Sarakki STP (5 MLD),2.72,
+G3112,12.898077,77.559479,777750.0,1427250.0,7.81,Grey Granite,100.0,FALSE,70.4,0.0,0.0,2507.0,435.0,Sarakki STP (5 MLD),2.22,
+G0111,12.894876,77.4213,762750.0,1426750.0,7.81,,0.0,,,0.13,0.0,3832.0,333.0,Doddabele STP (20 MLD),6.12,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0211,12.894833,77.425904,763250.0,1426750.0,7.33,,0.0,,,4.15,0.0,3457.0,44.0,Doddabele STP (20 MLD),5.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0311,12.89479,77.430509,763750.0,1426750.0,6.86,,0.0,,,0.0,0.0,3117.0,329.0,Doddabele STP (20 MLD),5.12,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0411,12.894748,77.435114,764250.0,1426750.0,6.4,,0.0,,,0.37,0.0,2825.0,176.0,Doddabele STP (20 MLD),4.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0511,12.894705,77.439718,764750.0,1426750.0,5.94,,0.0,,,0.0,0.0,2596.0,311.0,Doddabele STP (20 MLD),4.12,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0611,12.894662,77.444323,765250.0,1426750.0,5.48,,0.0,,,1.37,0.0,2438.0,142.0,Doddabele STP (20 MLD),3.63,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0711,12.894619,77.448928,765750.0,1426750.0,5.04,,0.0,,,3.06,0.0,2275.0,161.0,Doddabele STP (20 MLD),3.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0811,12.894575,77.453532,766250.0,1426750.0,4.61,,0.0,,,0.0,0.0,1970.0,294.0,Doddabele STP (20 MLD),2.64,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0911,12.894532,77.458137,766750.0,1426750.0,4.19,,0.0,,,5.28,0.0,1742.0,30.0,Doddabele STP (20 MLD),2.15,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1011,12.894489,77.462741,767250.0,1426750.0,3.79,,0.0,,,2.72,0.0,1374.0,97.0,Doddabele STP (40 MLD),1.66,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1111,12.894446,77.467346,767750.0,1426750.0,3.42,,0.0,,3.2,0.62,0.0,874.0,200.0,Doddabele STP (40 MLD),1.18,geology missing/partial (outside Bhukosh sheet 57H09)
+G1211,12.894402,77.47195,768250.0,1426750.0,3.08,,0.0,,0.0,0.6,0.0,374.0,211.0,Doddabele STP (40 MLD),0.74,geology missing/partial (outside Bhukosh sheet 57H09)
+G1311,12.894359,77.476555,768750.0,1426750.0,2.8,,0.0,,0.0,4.1,3.37,2.0,117.0,Doddabele STP (40 MLD),0.43,geology missing/partial (outside Bhukosh sheet 57H09)
+G1411,12.894315,77.481159,769250.0,1426750.0,2.58,,0.0,,0.0,0.77,0.22,323.0,275.0,Doddabele STP (40 MLD),0.58,geology missing/partial (outside Bhukosh sheet 57H09)
+G1511,12.894271,77.485764,769750.0,1426750.0,2.45,,0.0,,21.1,2.43,0.0,675.0,125.0,Doddabele STP (40 MLD),0.99,geology missing/partial (outside Bhukosh sheet 57H09)
+G1611,12.894227,77.490368,770250.0,1426750.0,2.41,,0.0,,0.6,3.26,0.0,1058.0,0.0,Doddabele STP (40 MLD),1.46,geology missing/partial (outside Bhukosh sheet 57H09)
+G1711,12.894183,77.494973,770750.0,1426750.0,2.48,,0.0,,0.0,2.2,0.0,1487.0,200.0,Doddabele STP (40 MLD),1.94,geology missing/partial (outside Bhukosh sheet 57H09)
+G1811,12.89414,77.499577,771250.0,1426750.0,2.64,Grey Hornblende Biotite Gneiss,40.8,TRUE,0.0,3.91,0.0,1835.0,85.0,Doddabele STP (40 MLD),2.43,geology partial
+G1911,12.894095,77.504182,771750.0,1426750.0,2.88,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,2.27,0.0,2240.0,75.0,Kengeri STP (60 MLD),2.88,
+G2011,12.894051,77.508786,772250.0,1426750.0,3.18,Grey Hornblende Biotite Gneiss,100.0,TRUE,25.5,0.0,0.0,2676.0,310.0,Mailasandra Ph-I STP (75 MLD),3.09,
+G2111,12.894007,77.513391,772750.0,1426750.0,3.53,Grey Hornblende Biotite Gneiss,100.0,TRUE,18.5,3.53,0.0,3131.0,89.0,Mailasandra Ph-I STP (75 MLD),3.24,
+G2211,12.893963,77.517995,773250.0,1426750.0,3.91,Grey Hornblende Biotite Gneiss,100.0,TRUE,3.0,3.34,0.0,3385.0,70.0,Mailasandra Ph-I STP (75 MLD),3.45,
+G2311,12.893918,77.522599,773750.0,1426750.0,4.31,Grey Hornblende Biotite Gneiss,100.0,TRUE,19.3,2.95,0.0,3174.0,171.0,Mailasandra Ph-I STP (75 MLD),3.72,
+G2411,12.893874,77.527204,774250.0,1426750.0,4.74,Granodiorite,100.0,TRUE,11.2,4.02,0.0,2928.0,150.0,Mailasandra Ph-I STP (75 MLD),4.04,
+G2511,12.89383,77.531808,774750.0,1426750.0,5.17,Granodiorite,100.0,FALSE,13.8,4.55,0.0,2746.0,116.0,Mailasandra Ph-I STP (75 MLD),4.39,
+G2611,12.893785,77.536412,775250.0,1426750.0,5.62,Grey Hornblende Biotite Gneiss,100.0,FALSE,52.4,1.31,0.0,2528.0,113.0,Sarakki STP (5 MLD),4.76,
+G2711,12.89374,77.541017,775750.0,1426750.0,6.08,Granitoid,100.0,FALSE,41.7,1.31,0.0,2239.0,227.0,Sarakki STP (5 MLD),4.27,
+G2811,12.893695,77.545621,776250.0,1426750.0,6.54,Grey Hornblende Biotite Gneiss,100.0,FALSE,26.0,0.85,0.0,2033.0,260.0,Sarakki STP (5 MLD),3.77,
+G2911,12.893651,77.550225,776750.0,1426750.0,7.0,Grey Hornblende Biotite Gneiss,100.0,FALSE,48.8,0.0,0.0,1938.0,388.0,Sarakki STP (5 MLD),3.28,
+G3011,12.893606,77.554829,777250.0,1426750.0,7.48,Grey Granite,100.0,FALSE,52.7,2.24,0.0,1969.0,32.0,Sarakki STP (5 MLD),2.79,
+G3111,12.893561,77.559433,777750.0,1426750.0,7.95,Grey Granite,100.0,FALSE,77.3,0.0,0.0,2121.0,377.0,Sarakki STP (5 MLD),2.31,
+G0110,12.890359,77.421256,762750.0,1426250.0,7.97,,0.0,,,1.58,0.0,3539.0,158.0,Doddabele STP (20 MLD),6.17,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0210,12.890316,77.425861,763250.0,1426250.0,7.51,,0.0,,,2.0,0.0,3130.0,163.0,Doddabele STP (20 MLD),5.68,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0310,12.890273,77.430465,763750.0,1426250.0,7.05,,0.0,,,0.37,0.0,2750.0,303.0,Doddabele STP (20 MLD),5.19,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0410,12.89023,77.43507,764250.0,1426250.0,6.6,,0.0,,,2.17,0.0,2414.0,32.0,Doddabele STP (20 MLD),4.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0510,12.890187,77.439675,764750.0,1426250.0,6.16,,0.0,,,2.29,0.0,2142.0,33.0,Doddabele STP (40 MLD),4.21,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0610,12.890144,77.444279,765250.0,1426250.0,5.72,,0.0,,,2.09,0.0,1960.0,127.0,Doddabele STP (40 MLD),3.72,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0710,12.890101,77.448884,765750.0,1426250.0,5.3,,0.0,,,3.83,0.0,1852.0,27.0,Doddabele STP (40 MLD),3.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0810,12.890058,77.453488,766250.0,1426250.0,4.89,,0.0,,,1.77,0.0,1568.0,181.0,Doddabele STP (40 MLD),2.76,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0910,12.890015,77.458093,766750.0,1426250.0,4.49,,0.0,,,3.24,0.0,1290.0,7.0,Doddabele STP (40 MLD),2.3,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1010,12.889972,77.462697,767250.0,1426250.0,4.13,,0.0,,,2.51,0.0,1063.0,140.0,Doddabele STP (40 MLD),1.85,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1110,12.889928,77.467302,767750.0,1426250.0,3.79,,0.0,,0.0,1.26,0.0,969.0,112.0,Doddabele STP (40 MLD),1.44,geology missing/partial (outside Bhukosh sheet 57H09)
+G1210,12.889885,77.471906,768250.0,1426250.0,3.49,,0.0,,0.0,0.0,0.0,625.0,307.0,Doddabele STP (40 MLD),1.1,geology missing/partial (outside Bhukosh sheet 57H09)
+G1310,12.889841,77.476511,768750.0,1426250.0,3.24,,0.0,,0.0,0.0,0.0,299.0,464.0,Doddabele STP (40 MLD),0.92,geology missing/partial (outside Bhukosh sheet 57H09)
+G1410,12.889798,77.481115,769250.0,1426250.0,3.05,,0.0,,0.0,4.21,3.2,28.0,45.0,Doddabele STP (40 MLD),1.0,geology missing/partial (outside Bhukosh sheet 57H09)
+G1510,12.889754,77.485719,769750.0,1426250.0,2.94,,0.0,,12.4,1.68,0.0,387.0,182.0,Doddabele STP (40 MLD),1.28,geology missing/partial (outside Bhukosh sheet 57H09)
+G1610,12.88971,77.490324,770250.0,1426250.0,2.91,,0.0,,0.1,2.19,0.0,875.0,152.0,Doddabele STP (40 MLD),1.67,geology missing/partial (outside Bhukosh sheet 57H09)
+G1710,12.889666,77.494928,770750.0,1426250.0,2.97,,0.0,,4.0,1.02,0.0,1348.0,227.0,Doddabele STP (40 MLD),2.11,geology missing/partial (outside Bhukosh sheet 57H09)
+G1810,12.889622,77.499532,771250.0,1426250.0,3.1,Grey Hornblende Biotite Gneiss,39.9,FALSE,0.0,1.67,0.0,1834.0,53.0,Doddabele STP (40 MLD),2.56,geology partial
+G1910,12.889578,77.504137,771750.0,1426250.0,3.31,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,3.18,0.0,2326.0,94.0,Doddabele STP (40 MLD),3.04,
+G2010,12.889534,77.508741,772250.0,1426250.0,3.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,22.0,1.13,0.0,2821.0,135.0,Doddabele STP (40 MLD),3.52,
+G2110,12.88949,77.513345,772750.0,1426250.0,3.89,Grey Hornblende Biotite Gneiss,100.0,TRUE,15.0,3.11,0.0,3317.0,127.0,Mailasandra Ph-I STP (75 MLD),3.7,
+G2210,12.889446,77.51795,773250.0,1426250.0,4.24,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.2,2.44,0.0,3794.0,169.0,Mailasandra Ph-I STP (75 MLD),3.9,
+G2310,12.889401,77.522554,773750.0,1426250.0,4.61,Grey Hornblende Biotite Gneiss,100.0,TRUE,3.7,2.76,0.0,3434.0,91.0,Mailasandra Ph-I STP (75 MLD),4.14,
+G2410,12.889357,77.527158,774250.0,1426250.0,5.01,Granodiorite,100.0,TRUE,0.0,2.07,0.0,2990.0,12.0,Mailasandra Ph-I STP (75 MLD),4.42,
+G2510,12.889313,77.531762,774750.0,1426250.0,5.42,Granodiorite,100.0,FALSE,20.5,2.04,0.0,2566.0,105.0,Mailasandra Ph-I STP (75 MLD),4.75,
+G2610,12.889268,77.536367,775250.0,1426250.0,5.85,Grey Hornblende Biotite Gneiss,100.0,FALSE,19.8,3.17,0.0,2170.0,5.0,Sarakki STP (5 MLD),4.86,
+G2710,12.889223,77.540971,775750.0,1426250.0,6.29,Granitoid,100.0,FALSE,66.2,0.0,0.0,1825.0,373.0,Sarakki STP (5 MLD),4.37,
+G2810,12.889179,77.545575,776250.0,1426250.0,6.74,Grey Hornblende Biotite Gneiss,100.0,FALSE,49.8,3.83,0.0,1566.0,1.0,Sarakki STP (5 MLD),3.89,
+G2910,12.889134,77.550179,776750.0,1426250.0,7.19,Grey Hornblende Biotite Gneiss,100.0,FALSE,40.4,0.0,0.0,1440.0,356.0,Sarakki STP (5 MLD),3.42,
+G3010,12.889089,77.554783,777250.0,1426250.0,7.65,Grey Granite,100.0,FALSE,71.2,0.68,0.0,1481.0,261.0,Sarakki STP (5 MLD),2.95,
+G0209,12.885799,77.425817,763250.0,1425750.0,7.72,,0.0,,,4.02,0.0,2852.0,28.0,Doddabele STP (40 MLD),5.78,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0309,12.885756,77.430422,763750.0,1425750.0,7.27,,0.0,,,3.0,0.0,2430.0,18.0,Doddabele STP (40 MLD),5.3,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0409,12.885713,77.435026,764250.0,1425750.0,6.84,,0.0,,,2.47,0.0,2043.0,175.0,Doddabele STP (40 MLD),4.82,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0509,12.88567,77.439631,764750.0,1425750.0,6.41,,0.0,,,0.0,0.0,1715.0,516.0,Doddabele STP (40 MLD),4.34,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0609,12.885627,77.444235,765250.0,1425750.0,5.99,,0.0,,,0.64,0.0,1482.0,190.0,Doddabele STP (40 MLD),3.87,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0709,12.885584,77.44884,765750.0,1425750.0,5.59,,0.0,,,2.74,0.0,1355.0,148.0,Doddabele STP (40 MLD),3.41,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0809,12.885541,77.453444,766250.0,1425750.0,5.2,,0.0,,,3.8,0.0,1241.0,92.0,Doddabele STP (40 MLD),2.97,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0909,12.885498,77.458049,766750.0,1425750.0,4.83,,0.0,,,1.08,0.0,863.0,15.0,Doddabele STP (40 MLD),2.54,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1009,12.885455,77.462653,767250.0,1425750.0,4.49,,0.0,,,0.4,0.0,639.0,172.0,Doddabele STP (40 MLD),2.14,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1109,12.885411,77.467257,767750.0,1425750.0,4.18,,0.0,,0.0,2.54,0.0,471.0,154.0,Doddabele STP (40 MLD),1.8,geology missing/partial (outside Bhukosh sheet 57H09)
+G1209,12.885368,77.471862,768250.0,1425750.0,3.92,,0.0,,0.0,0.82,0.0,602.0,201.0,Doddabele STP (40 MLD),1.54,geology missing/partial (outside Bhukosh sheet 57H09)
+G1309,12.885324,77.476466,768750.0,1425750.0,3.7,,0.0,,0.0,0.78,0.78,258.0,277.0,Doddabele STP (40 MLD),1.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1409,12.885281,77.48107,769250.0,1425750.0,3.53,,0.0,,0.0,5.55,3.5,82.0,155.0,Doddabele STP (40 MLD),1.47,geology missing/partial (outside Bhukosh sheet 57H09)
+G1509,12.885237,77.485675,769750.0,1425750.0,3.44,,0.0,,8.9,0.0,0.0,313.0,376.0,Doddabele STP (40 MLD),1.68,geology missing/partial (outside Bhukosh sheet 57H09)
+G1609,12.885193,77.490279,770250.0,1425750.0,3.41,,0.0,,9.1,0.0,0.0,803.0,322.0,Doddabele STP (40 MLD),1.99,geology missing/partial (outside Bhukosh sheet 57H09)
+G1709,12.885149,77.494883,770750.0,1425750.0,3.46,,0.0,,0.2,0.0,0.0,1300.0,355.0,Doddabele STP (40 MLD),2.37,geology missing/partial (outside Bhukosh sheet 57H09)
+G1809,12.885105,77.499488,771250.0,1425750.0,3.58,Grey Hornblende Biotite Gneiss,38.9,FALSE,2.5,0.17,0.0,1799.0,331.0,Doddabele STP (40 MLD),2.78,geology partial
+G1909,12.885061,77.504092,771750.0,1425750.0,3.76,Grey Hornblende Biotite Gneiss,100.0,TRUE,1.0,0.85,0.0,2298.0,135.0,Doddabele STP (40 MLD),3.22,
+G2009,12.885017,77.508696,772250.0,1425750.0,3.99,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.0,0.0,2797.0,268.0,Doddabele STP (40 MLD),3.68,
+G2109,12.884973,77.5133,772750.0,1425750.0,4.28,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,1.55,0.0,3297.0,175.0,Doddabele STP (40 MLD),4.14,
+G2209,12.884929,77.517905,773250.0,1425750.0,4.59,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,2.72,0.0,3727.0,196.0,Mailasandra Ph-I STP (75 MLD),4.35,
+G2309,12.884885,77.522509,773750.0,1425750.0,4.94,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,4.03,0.0,3248.0,26.0,Mailasandra Ph-I STP (75 MLD),4.57,
+G2409,12.88484,77.527113,774250.0,1425750.0,5.32,Granodiorite,100.0,TRUE,0.0,1.81,0.0,2777.0,52.0,Mailasandra Ph-I STP (75 MLD),4.83,
+G2509,12.884796,77.531717,774750.0,1425750.0,5.71,Granodiorite,100.0,FALSE,8.5,0.88,0.0,2316.0,253.0,Mailasandra Ph-I STP (75 MLD),5.13,
+G2609,12.884751,77.536321,775250.0,1425750.0,6.12,Grey Hornblende Biotite Gneiss,100.0,FALSE,21.6,3.65,0.0,1875.0,26.0,Sarakki STP (5 MLD),5.0,
+G2709,12.884706,77.540925,775750.0,1425750.0,6.54,Grey Hornblende Biotite Gneiss,100.0,FALSE,49.0,0.63,0.0,1465.0,264.0,Sarakki STP (5 MLD),4.53,
+G2809,12.884662,77.545529,776250.0,1425750.0,6.97,Grey Hornblende Biotite Gneiss,100.0,FALSE,53.5,0.87,0.0,1126.0,209.0,Sarakki STP (5 MLD),4.07,
+G2909,12.884617,77.550134,776750.0,1425750.0,7.41,Grey Granite,100.0,FALSE,40.2,0.39,0.0,943.0,244.0,Sarakki STP (5 MLD),3.62,
+G3009,12.884572,77.554738,777250.0,1425750.0,7.86,Grey Granite,100.0,FALSE,80.9,0.0,0.0,1005.0,598.0,Sarakki STP (5 MLD),3.19,
+G0208,12.881281,77.425774,763250.0,1425250.0,7.95,,0.0,,,0.78,0.0,2638.0,228.0,Doddabele STP (40 MLD),5.92,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0308,12.881239,77.430378,763750.0,1425250.0,7.52,,0.0,,,1.36,0.0,2177.0,87.0,Doddabele STP (40 MLD),5.45,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0408,12.881196,77.434983,764250.0,1425250.0,7.1,,0.0,,,2.89,0.0,1737.0,105.0,Doddabele STP (40 MLD),4.99,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0508,12.881153,77.439587,764750.0,1425250.0,6.69,,0.0,,,0.98,0.0,1337.0,48.0,Doddabele STP (40 MLD),4.53,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0608,12.88111,77.444191,765250.0,1425250.0,6.29,,0.0,,,0.0,0.0,1025.0,350.0,Doddabele STP (40 MLD),4.08,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0708,12.881067,77.448796,765750.0,1425250.0,5.91,,0.0,,,2.44,0.0,861.0,165.0,Doddabele STP (40 MLD),3.65,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0808,12.881024,77.4534,766250.0,1425250.0,5.54,,0.0,,,1.66,0.0,875.0,41.0,Doddabele STP (40 MLD),3.24,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0908,12.880981,77.458005,766750.0,1425250.0,5.2,,0.0,,,0.0,0.0,570.0,417.0,Doddabele STP (40 MLD),2.85,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1008,12.880937,77.462609,767250.0,1425250.0,4.88,,0.0,,,2.69,1.0,175.0,37.0,Doddabele STP (40 MLD),2.5,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1108,12.880894,77.467213,767750.0,1425250.0,4.6,,0.0,,0.0,4.89,2.68,2.0,53.0,Doddabele STP (40 MLD),2.21,geology missing/partial (outside Bhukosh sheet 57H09)
+G1208,12.880851,77.471817,768250.0,1425250.0,4.36,,0.0,,0.0,2.33,1.85,162.0,180.0,Doddabele STP (40 MLD),2.01,geology missing/partial (outside Bhukosh sheet 57H09)
+G1308,12.880807,77.476422,768750.0,1425250.0,4.16,,0.0,,0.0,2.61,2.61,98.0,385.0,Doddabele STP (40 MLD),1.92,geology missing/partial (outside Bhukosh sheet 57H09)
+G1408,12.880763,77.481026,769250.0,1425250.0,4.02,,0.0,,12.6,0.0,0.0,448.0,318.0,Doddabele STP (40 MLD),1.96,geology missing/partial (outside Bhukosh sheet 57H09)
+G1508,12.88072,77.48563,769750.0,1425250.0,3.93,,0.0,,27.2,0.19,0.0,637.0,325.0,Doddabele STP (40 MLD),2.12,geology missing/partial (outside Bhukosh sheet 57H09)
+G1608,12.880676,77.490234,770250.0,1425250.0,3.91,,0.0,,1.5,2.3,0.0,987.0,39.0,Doddabele STP (40 MLD),2.37,geology missing/partial (outside Bhukosh sheet 57H09)
+G1708,12.880632,77.494839,770750.0,1425250.0,3.95,,0.0,,22.6,2.06,0.0,1426.0,66.0,Doddabele STP (40 MLD),2.7,geology missing/partial (outside Bhukosh sheet 57H09)
+G1808,12.880588,77.499443,771250.0,1425250.0,4.06,Grey Hornblende Biotite Gneiss,37.9,FALSE,6.1,2.47,0.0,1893.0,24.0,Doddabele STP (40 MLD),3.07,geology partial
+G1908,12.880544,77.504047,771750.0,1425250.0,4.22,Grey Hornblende Biotite Gneiss,100.0,FALSE,15.9,0.78,0.0,2374.0,257.0,Doddabele STP (40 MLD),3.47,
+G2008,12.8805,77.508651,772250.0,1425250.0,4.43,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,1.99,0.0,2861.0,102.0,Doddabele STP (40 MLD),3.9,
+G2108,12.880456,77.513255,772750.0,1425250.0,4.68,Grey Hornblende Biotite Gneiss,100.0,TRUE,16.6,0.0,0.0,3351.0,466.0,Doddabele STP (40 MLD),4.34,
+G2208,12.880412,77.517859,773250.0,1425250.0,4.98,Grey Hornblende Biotite Gneiss,100.0,TRUE,2.4,1.31,0.0,3602.0,227.0,Doddabele STP (40 MLD),4.79,
+G2308,12.880368,77.522464,773750.0,1425250.0,5.3,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,4.57,0.0,3124.0,3.0,Mailasandra Ph-I STP (75 MLD),5.01,
+G2408,12.880323,77.527068,774250.0,1425250.0,5.65,Granodiorite,100.0,FALSE,3.3,0.36,0.0,2638.0,171.0,Mailasandra Ph-I STP (75 MLD),5.25,
+G2508,12.880279,77.531672,774750.0,1425250.0,6.02,Grey Hornblende Biotite Gneiss,100.0,FALSE,25.3,1.13,0.0,2150.0,112.0,Mailasandra Ph-I STP (75 MLD),5.53,
+G2608,12.880234,77.536276,775250.0,1425250.0,6.41,Grey Hornblende Biotite Gneiss,100.0,FALSE,19.4,0.73,0.0,1667.0,264.0,Sarakki STP (5 MLD),5.19,
+G2708,12.880189,77.54088,775750.0,1425250.0,6.81,Grey Hornblende Biotite Gneiss,100.0,FALSE,35.2,2.25,0.0,1199.0,30.0,Sarakki STP (5 MLD),4.74,
+G2808,12.880145,77.545484,776250.0,1425250.0,7.23,Grey Hornblende Biotite Gneiss,100.0,FALSE,54.2,0.0,0.0,763.0,348.0,Sarakki STP (5 MLD),4.3,
+G2908,12.8801,77.550088,776750.0,1425250.0,7.65,Grey Granite,100.0,FALSE,63.0,3.41,0.0,453.0,41.0,Sarakki STP (5 MLD),3.88,
+G0307,12.876721,77.430335,763750.0,1424750.0,7.79,,0.0,,,3.22,0.0,2015.0,61.0,Doddabele STP (40 MLD),5.65,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0407,12.876678,77.434939,764250.0,1424750.0,7.39,,0.0,,,4.35,0.0,1530.0,77.0,Doddabele STP (40 MLD),5.2,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0507,12.876636,77.439543,764750.0,1424750.0,6.99,,0.0,,,4.67,0.0,1059.0,77.0,Doddabele STP (40 MLD),4.77,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0607,12.876593,77.444148,765250.0,1424750.0,6.61,,0.0,,,0.0,0.0,631.0,251.0,Doddabele STP (40 MLD),4.34,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0707,12.87655,77.448752,765750.0,1424750.0,6.25,,0.0,,,2.13,0.0,382.0,18.0,Doddabele STP (40 MLD),3.94,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0807,12.876507,77.453356,766250.0,1424750.0,5.9,,0.0,,,0.0,0.0,437.0,428.0,Doddabele STP (40 MLD),3.56,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0907,12.876463,77.45796,766750.0,1424750.0,5.58,,0.0,,,0.88,0.0,360.0,65.0,Doddabele STP (40 MLD),3.21,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1007,12.87642,77.462565,767250.0,1424750.0,5.29,,0.0,,,2.44,2.44,110.0,338.0,Doddabele STP (40 MLD),2.9,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1107,12.876377,77.467169,767750.0,1424750.0,5.03,,0.0,,0.0,0.17,0.17,329.0,361.0,Doddabele STP (40 MLD),2.66,geology missing/partial (outside Bhukosh sheet 57H09)
+G1207,12.876333,77.471773,768250.0,1424750.0,4.81,,0.0,,0.0,2.62,0.32,299.0,139.0,Doddabele STP (40 MLD),2.49,geology missing/partial (outside Bhukosh sheet 57H09)
+G1307,12.87629,77.476377,768750.0,1424750.0,4.64,,0.0,,0.3,2.6,0.85,228.0,177.0,Doddabele STP (40 MLD),2.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1407,12.876246,77.480982,769250.0,1424750.0,4.51,,0.0,,11.1,0.89,0.0,619.0,243.0,Doddabele STP (40 MLD),2.45,geology missing/partial (outside Bhukosh sheet 57H09)
+G1507,12.876203,77.485586,769750.0,1424750.0,4.43,,0.0,,5.3,2.29,0.0,1097.0,142.0,Doddabele STP (40 MLD),2.58,geology missing/partial (outside Bhukosh sheet 57H09)
+G1607,12.876159,77.49019,770250.0,1424750.0,4.41,,0.0,,5.3,0.0,0.0,1333.0,365.0,Doddabele STP (40 MLD),2.79,geology missing/partial (outside Bhukosh sheet 57H09)
+G1707,12.876115,77.494794,770750.0,1424750.0,4.45,,0.0,,1.5,0.4,0.0,1687.0,295.0,Doddabele STP (40 MLD),3.07,geology missing/partial (outside Bhukosh sheet 57H09)
+G1807,12.876071,77.499398,771250.0,1424750.0,4.54,Grey Hornblende Biotite Gneiss,36.9,FALSE,3.1,2.21,0.0,2100.0,82.0,Doddabele STP (40 MLD),3.4,geology partial
+G1907,12.876027,77.504002,771750.0,1424750.0,4.68,Grey Hornblende Biotite Gneiss,100.0,FALSE,4.0,2.73,0.0,2543.0,60.0,Doddabele STP (40 MLD),3.77,
+G2007,12.875983,77.508606,772250.0,1424750.0,4.88,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,1.36,0.0,3003.0,158.0,Doddabele STP (40 MLD),4.17,
+G2107,12.875939,77.51321,772750.0,1424750.0,5.11,Grey Hornblende Biotite Gneiss,100.0,FALSE,7.8,1.13,0.0,3475.0,192.0,Doddabele STP (40 MLD),4.58,
+G2207,12.875895,77.517814,773250.0,1424750.0,5.38,Grey Hornblende Biotite Gneiss,100.0,TRUE,28.0,1.65,0.0,3436.0,62.0,Doddabele STP (40 MLD),5.02,
+G2307,12.875851,77.522418,773750.0,1424750.0,5.68,Grey Hornblende Biotite Gneiss,100.0,TRUE,0.0,0.84,0.0,2971.0,79.0,Doddabele STP (40 MLD),5.46,
+G2407,12.875806,77.527022,774250.0,1424750.0,6.01,Granodiorite,100.0,FALSE,8.5,1.19,0.0,2504.0,222.0,Mailasandra Ph-I STP (75 MLD),5.69,
+G2507,12.875762,77.531626,774750.0,1424750.0,6.36,Grey Hornblende Biotite Gneiss,100.0,FALSE,59.6,1.12,0.0,2024.0,199.0,Sarakki STP (5 MLD),5.86,
+G2607,12.875717,77.53623,775250.0,1424750.0,6.73,Grey Hornblende Biotite Gneiss,100.0,FALSE,66.1,0.0,0.0,1543.0,575.0,Sarakki STP (5 MLD),5.42,
+G2707,12.875673,77.540834,775750.0,1424750.0,7.11,Grey Hornblende Biotite Gneiss,100.0,FALSE,60.8,0.89,0.0,1078.0,168.0,Sarakki STP (5 MLD),4.99,
+G2807,12.875628,77.545438,776250.0,1424750.0,7.51,Grey Hornblende Biotite Gneiss,100.0,FALSE,39.7,0.0,0.0,590.0,339.0,Sarakki STP (5 MLD),4.57,
+G2907,12.875583,77.550042,776750.0,1424750.0,7.92,Grey Granite,100.0,FALSE,38.3,2.84,1.32,91.0,144.0,Sarakki STP (5 MLD),4.18,
+G0406,12.872161,77.434895,764250.0,1424250.0,7.7,,0.0,,,0.0,0.0,1404.0,402.0,Doddabele STP (40 MLD),5.45,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0506,12.872118,77.4395,764750.0,1424250.0,7.32,,0.0,,,1.26,0.0,936.0,174.0,Doddabele STP (40 MLD),5.04,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0606,12.872075,77.444104,765250.0,1424250.0,6.95,,0.0,,,1.53,0.0,466.0,183.0,Doddabele STP (40 MLD),4.64,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0706,12.872032,77.448708,765750.0,1424250.0,6.61,,0.0,,,3.24,2.64,24.0,103.0,Doddabele STP (40 MLD),4.26,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0806,12.871989,77.453312,766250.0,1424250.0,6.29,,0.0,,,4.06,4.06,89.0,392.0,Doddabele STP (40 MLD),3.91,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0906,12.871946,77.457916,766750.0,1424250.0,5.99,,0.0,,,2.7,2.33,157.0,223.0,Doddabele STP (40 MLD),3.6,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1006,12.871903,77.462521,767250.0,1424250.0,5.72,,0.0,,,2.77,2.18,133.0,157.0,Doddabele STP (40 MLD),3.33,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1106,12.87186,77.467125,767750.0,1424250.0,5.48,,0.0,,0.0,0.59,0.0,365.0,277.0,Doddabele STP (40 MLD),3.12,geology missing/partial (outside Bhukosh sheet 57H09)
+G1206,12.871816,77.471729,768250.0,1424250.0,5.27,,0.0,,0.0,0.0,0.0,764.0,338.0,Doddabele STP (40 MLD),2.98,geology missing/partial (outside Bhukosh sheet 57H09)
+G1306,12.871773,77.476333,768750.0,1424250.0,5.11,,0.0,,0.0,5.16,0.0,705.0,14.0,Doddabele STP (40 MLD),2.92,geology missing/partial (outside Bhukosh sheet 57H09)
+G1406,12.871729,77.480937,769250.0,1424250.0,5.0,,0.0,,0.0,2.7,0.0,924.0,178.0,Doddabele STP (40 MLD),2.95,geology missing/partial (outside Bhukosh sheet 57H09)
+G1506,12.871686,77.485541,769750.0,1424250.0,4.93,,0.0,,3.8,2.85,0.0,1298.0,20.0,Doddabele STP (40 MLD),3.05,geology missing/partial (outside Bhukosh sheet 57H09)
+G1606,12.871642,77.490145,770250.0,1424250.0,4.91,,0.0,,0.0,2.89,0.0,1735.0,29.0,Doddabele STP (40 MLD),3.23,geology missing/partial (outside Bhukosh sheet 57H09)
+G1706,12.871598,77.494749,770750.0,1424250.0,4.95,,0.0,,0.0,1.8,0.0,2037.0,174.0,Doddabele STP (40 MLD),3.48,geology missing/partial (outside Bhukosh sheet 57H09)
+G1806,12.871554,77.499353,771250.0,1424250.0,5.03,Grey Hornblende Biotite Gneiss,36.0,FALSE,0.0,0.0,0.0,2391.0,348.0,Doddabele STP (40 MLD),3.78,geology partial
+G1906,12.87151,77.503957,771750.0,1424250.0,5.16,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.0,0.0,2789.0,291.0,Doddabele STP (40 MLD),4.11,
+G2006,12.871466,77.508561,772250.0,1424250.0,5.33,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.35,0.0,3216.0,299.0,Doddabele STP (40 MLD),4.48,
+G2106,12.871422,77.513165,772750.0,1424250.0,5.55,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.2,4.39,0.0,3661.0,36.0,Doddabele STP (40 MLD),4.87,
+G2206,12.871378,77.517769,773250.0,1424250.0,5.8,Grey Hornblende Biotite Gneiss,100.0,FALSE,1.4,2.23,0.0,3235.0,169.0,Doddabele STP (40 MLD),5.28,
+G2306,12.871334,77.522373,773750.0,1424250.0,6.08,Grey Hornblende Biotite Gneiss,100.0,FALSE,7.9,1.17,0.0,2782.0,104.0,Doddabele STP (40 MLD),5.7,
+G2406,12.871289,77.526977,774250.0,1424250.0,6.38,Granodiorite,100.0,FALSE,11.5,0.34,0.0,2318.0,303.0,Mailasandra Ph-I STP (75 MLD),6.13,
+G2506,12.871245,77.531581,774750.0,1424250.0,6.71,Grey Hornblende Biotite Gneiss,100.0,FALSE,43.9,2.09,0.0,1868.0,54.0,Sarakki STP (5 MLD),6.1,
+G2606,12.8712,77.536185,775250.0,1424250.0,7.06,Grey Hornblende Biotite Gneiss,100.0,FALSE,57.4,0.0,0.0,1390.0,534.0,Sarakki STP (5 MLD),5.68,
+G2706,12.871156,77.540789,775750.0,1424250.0,7.43,Grey Hornblende Biotite Gneiss,100.0,FALSE,32.6,0.0,0.0,935.0,387.0,Sarakki STP (5 MLD),5.27,
+G2806,12.871111,77.545393,776250.0,1424250.0,7.81,Grey Hornblende Biotite Gneiss,100.0,FALSE,15.2,0.77,0.0,460.0,94.0,Sarakki STP (5 MLD),4.88,
+G0505,12.867601,77.439456,764750.0,1423750.0,7.66,,0.0,,,1.39,0.0,760.0,172.0,Doddabele STP (40 MLD),5.34,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0605,12.867558,77.44406,765250.0,1423750.0,7.32,,0.0,,,2.79,0.29,294.0,55.0,Doddabele STP (40 MLD),4.97,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0705,12.867515,77.448664,765750.0,1423750.0,6.99,,0.0,,,3.48,1.88,165.0,91.0,Doddabele STP (40 MLD),4.62,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0805,12.867472,77.453268,766250.0,1423750.0,6.68,,0.0,,,0.32,0.0,269.0,180.0,Doddabele STP (40 MLD),4.3,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0905,12.867429,77.457872,766750.0,1423750.0,6.4,,0.0,,,4.07,3.02,10.0,21.0,Doddabele STP (40 MLD),4.02,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1005,12.867386,77.462476,767250.0,1423750.0,6.15,,0.0,,,3.28,1.99,132.0,92.0,Doddabele STP (40 MLD),3.78,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1105,12.867342,77.467081,767750.0,1423750.0,5.93,,0.0,,0.0,1.32,0.0,533.0,175.0,Doddabele STP (40 MLD),3.59,geology missing/partial (outside Bhukosh sheet 57H09)
+G1205,12.867299,77.471685,768250.0,1423750.0,5.74,,0.0,,0.0,0.0,0.0,966.0,295.0,Doddabele STP (40 MLD),3.47,geology missing/partial (outside Bhukosh sheet 57H09)
+G1305,12.867256,77.476289,768750.0,1423750.0,5.6,,0.0,,0.0,1.36,0.0,1200.0,83.0,Doddabele STP (40 MLD),3.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1405,12.867212,77.480893,769250.0,1423750.0,5.49,,0.0,,0.0,2.26,0.0,1345.0,33.0,Doddabele STP (40 MLD),3.44,geology missing/partial (outside Bhukosh sheet 57H09)
+G1505,12.867168,77.485497,769750.0,1423750.0,5.43,,0.0,,0.0,0.0,0.0,1629.0,447.0,Doddabele STP (40 MLD),3.53,geology missing/partial (outside Bhukosh sheet 57H09)
+G1605,12.867125,77.490101,770250.0,1423750.0,5.41,,0.0,,0.0,2.17,0.0,1996.0,19.0,Doddabele STP (40 MLD),3.69,geology missing/partial (outside Bhukosh sheet 57H09)
+G1705,12.867081,77.494705,770750.0,1423750.0,5.44,,0.0,,0.0,0.0,0.0,2411.0,299.0,Doddabele STP (40 MLD),3.91,geology missing/partial (outside Bhukosh sheet 57H09)
+G1805,12.867037,77.499309,771250.0,1423750.0,5.52,Grey Hornblende Biotite Gneiss,35.0,FALSE,0.0,2.8,0.0,2742.0,5.0,Doddabele STP (40 MLD),4.17,geology partial
+G1905,12.866993,77.503912,771750.0,1423750.0,5.64,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,4.73,0.0,3096.0,47.0,Doddabele STP (40 MLD),4.48,
+G2005,12.866949,77.508516,772250.0,1423750.0,5.8,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,2.53,0.0,3486.0,4.0,Doddabele STP (40 MLD),4.82,
+G2105,12.866905,77.51312,772750.0,1423750.0,5.99,Grey Hornblende Biotite Gneiss,100.0,FALSE,1.8,0.0,0.0,3558.0,313.0,Doddabele STP (40 MLD),5.18,
+G2205,12.866861,77.517724,773250.0,1423750.0,6.23,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.2,0.0,0.0,3072.0,291.0,Doddabele STP (40 MLD),5.57,
+G2305,12.866817,77.522328,773750.0,1423750.0,6.49,Grey Hornblende Biotite Gneiss,100.0,FALSE,21.5,1.19,0.0,2592.0,207.0,Doddabele STP (40 MLD),5.97,
+G2405,12.866772,77.526932,774250.0,1423750.0,6.78,Granodiorite,100.0,FALSE,19.1,0.0,0.0,2120.0,266.0,Doddabele STP (40 MLD),6.39,
+G2505,12.866728,77.531536,774750.0,1423750.0,7.09,Grey Hornblende Biotite Gneiss,100.0,FALSE,9.4,2.12,0.0,1664.0,7.0,Sarakki STP (5 MLD),6.37,
+G2605,12.866683,77.536139,775250.0,1423750.0,7.42,Grey Hornblende Biotite Gneiss,100.0,FALSE,61.9,0.0,0.0,1202.0,477.0,Sarakki STP (5 MLD),5.97,
+G2705,12.866639,77.540743,775750.0,1423750.0,7.77,Grey Hornblende Biotite Gneiss,100.0,FALSE,52.8,0.0,0.0,761.0,392.0,Sarakki STP (5 MLD),5.59,
+G0604,12.863041,77.444016,765250.0,1423250.0,7.69,,0.0,,,5.83,2.22,102.0,36.0,Doddabele STP (40 MLD),5.33,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0704,12.862998,77.44862,765750.0,1423250.0,7.38,,0.0,,,2.07,0.0,350.0,106.0,Doddabele STP (40 MLD),5.0,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0804,12.862955,77.453224,766250.0,1423250.0,7.1,,0.0,,,0.63,0.0,656.0,258.0,Doddabele STP (40 MLD),4.71,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0904,12.862912,77.457828,766750.0,1423250.0,6.83,,0.0,,,1.74,0.0,447.0,110.0,Doddabele STP (40 MLD),4.45,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1004,12.862869,77.462432,767250.0,1423250.0,6.6,,0.0,,,0.44,0.0,414.0,183.0,Doddabele STP (40 MLD),4.23,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1104,12.862825,77.467036,767750.0,1423250.0,6.39,,0.0,,0.0,0.0,0.0,778.0,304.0,Doddabele STP (40 MLD),4.07,geology missing/partial (outside Bhukosh sheet 57H09)
+G1204,12.862782,77.47164,768250.0,1423250.0,6.22,,0.0,,0.0,1.18,0.0,1237.0,56.0,Doddabele STP (40 MLD),3.97,geology missing/partial (outside Bhukosh sheet 57H09)
+G1304,12.862738,77.476244,768750.0,1423250.0,6.08,,0.0,,0.0,0.0,0.0,1641.0,419.0,Doddabele STP (40 MLD),3.92,geology missing/partial (outside Bhukosh sheet 57H09)
+G1404,12.862695,77.480848,769250.0,1423250.0,5.98,,0.0,,0.0,1.16,0.0,1804.0,197.0,Doddabele STP (40 MLD),3.94,geology missing/partial (outside Bhukosh sheet 57H09)
+G1504,12.862651,77.485452,769750.0,1423250.0,5.93,,0.0,,0.0,0.69,0.0,2030.0,86.0,Doddabele STP (40 MLD),4.02,geology missing/partial (outside Bhukosh sheet 57H09)
+G1604,12.862608,77.490056,770250.0,1423250.0,5.91,,0.0,,0.0,0.36,0.0,2336.0,206.0,Doddabele STP (40 MLD),4.16,geology missing/partial (outside Bhukosh sheet 57H09)
+G1704,12.862564,77.49466,770750.0,1423250.0,5.94,,0.0,,0.0,2.35,0.0,2699.0,52.0,Doddabele STP (40 MLD),4.35,geology missing/partial (outside Bhukosh sheet 57H09)
+G1804,12.86252,77.499264,771250.0,1423250.0,6.01,Grey Hornblende Biotite Gneiss,34.0,FALSE,0.0,4.77,0.0,3101.0,15.0,Doddabele STP (40 MLD),4.59,geology partial
+G1904,12.862476,77.503868,771750.0,1423250.0,6.12,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.4,0.0,3448.0,233.0,Doddabele STP (40 MLD),4.87,
+G2004,12.862432,77.508471,772250.0,1423250.0,6.27,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.18,0.0,3698.0,279.0,Doddabele STP (40 MLD),5.18,
+G2104,12.862388,77.513075,772750.0,1423250.0,6.45,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,0.83,0.0,3308.0,180.0,Doddabele STP (40 MLD),5.52,
+G2204,12.862344,77.517679,773250.0,1423250.0,6.66,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.9,0.0,0.0,2909.0,335.0,Doddabele STP (40 MLD),5.89,
+G2304,12.8623,77.522283,773750.0,1423250.0,6.91,Grey Hornblende Biotite Gneiss,100.0,FALSE,14.2,1.89,0.0,2487.0,164.0,Doddabele STP (40 MLD),6.27,
+G2404,12.862255,77.526887,774250.0,1423250.0,7.18,Granodiorite,100.0,FALSE,26.1,2.83,0.0,1991.0,117.0,Doddabele STP (40 MLD),6.67,
+G2504,12.862211,77.53149,774750.0,1423250.0,7.48,Grey Hornblende Biotite Gneiss,100.0,FALSE,15.2,0.87,0.0,1498.0,264.0,Sarakki STP (5 MLD),6.68,
+G2604,12.862166,77.536094,775250.0,1423250.0,7.79,Grey Hornblende Biotite Gneiss,100.0,FALSE,62.7,1.65,0.0,1011.0,201.0,Sarakki STP (5 MLD),6.29,
+G0703,12.858481,77.448577,765750.0,1422750.0,7.79,,0.0,,,1.29,0.0,555.0,49.0,Doddabele STP (40 MLD),5.4,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0803,12.858438,77.45318,766250.0,1422750.0,7.52,,0.0,,,0.0,0.0,1014.0,279.0,Doddabele STP (40 MLD),5.13,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0903,12.858395,77.457784,766750.0,1422750.0,7.27,,0.0,,,1.59,0.0,905.0,200.0,Doddabele STP (40 MLD),4.89,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1003,12.858351,77.462388,767250.0,1422750.0,7.05,,0.0,,,0.49,0.0,887.0,284.0,Doddabele STP (40 MLD),4.7,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1103,12.858308,77.466992,767750.0,1422750.0,6.85,,0.0,,0.0,1.94,0.0,1108.0,40.0,Doddabele STP (40 MLD),4.55,geology missing/partial (outside Bhukosh sheet 57H09)
+G1203,12.858265,77.471596,768250.0,1422750.0,6.69,,0.0,,0.0,2.44,0.0,1471.0,94.0,Doddabele STP (40 MLD),4.46,geology missing/partial (outside Bhukosh sheet 57H09)
+G1303,12.858221,77.4762,768750.0,1422750.0,6.57,,0.0,,0.0,0.81,0.0,1896.0,162.0,Doddabele STP (40 MLD),4.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1403,12.858178,77.480804,769250.0,1422750.0,6.48,,0.0,,0.0,1.68,0.0,2281.0,189.0,Doddabele STP (40 MLD),4.44,geology missing/partial (outside Bhukosh sheet 57H09)
+G1503,12.858134,77.485408,769750.0,1422750.0,6.43,,0.0,,0.0,0.36,0.0,2463.0,246.0,Doddabele STP (40 MLD),4.51,geology missing/partial (outside Bhukosh sheet 57H09)
+G1603,12.858091,77.490011,770250.0,1422750.0,6.41,,0.0,,0.0,1.36,0.0,2725.0,206.0,Doddabele STP (40 MLD),4.63,geology missing/partial (outside Bhukosh sheet 57H09)
+G1703,12.858047,77.494615,770750.0,1422750.0,6.44,,0.0,,0.0,5.09,0.0,3042.0,61.0,Doddabele STP (40 MLD),4.81,geology missing/partial (outside Bhukosh sheet 57H09)
+G1803,12.858003,77.499219,771250.0,1422750.0,6.5,Grey Hornblende Biotite Gneiss,33.0,FALSE,0.0,0.0,0.0,3404.0,330.0,Doddabele STP (40 MLD),5.03,geology partial
+G1903,12.857959,77.503823,771750.0,1422750.0,6.6,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,4.1,0.0,3797.0,122.0,Doddabele STP (40 MLD),5.28,
+G2003,12.857915,77.508427,772250.0,1422750.0,6.74,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,1.51,0.0,3391.0,186.0,Doddabele STP (40 MLD),5.57,
+G2103,12.857871,77.51303,772750.0,1422750.0,6.91,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,2.14,0.0,2993.0,3.0,Doddabele STP (40 MLD),5.89,
+G2203,12.857827,77.517634,773250.0,1422750.0,7.11,Grey Hornblende Biotite Gneiss,100.0,FALSE,1.3,0.0,0.0,2617.0,262.0,Doddabele STP (40 MLD),6.23,
+G2303,12.857783,77.522238,773750.0,1422750.0,7.34,Grey Hornblende Biotite Gneiss,100.0,FALSE,9.7,1.21,0.0,2205.0,159.0,Doddabele STP (40 MLD),6.59,
+G2403,12.857738,77.526841,774250.0,1422750.0,7.6,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.5,3.96,0.0,1838.0,93.0,Doddabele STP (40 MLD),6.97,
+G2503,12.857694,77.531445,774750.0,1422750.0,7.88,Grey Hornblende Biotite Gneiss,100.0,FALSE,9.4,2.56,0.0,1482.0,26.0,Sarakki STP (5 MLD),7.0,
+G0802,12.85392,77.453137,766250.0,1422250.0,7.95,,0.0,,,0.0,0.0,1215.0,538.0,Doddabele STP (40 MLD),5.57,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G0902,12.853877,77.45774,766750.0,1422250.0,7.71,,0.0,,,0.15,0.0,1390.0,229.0,Doddabele STP (40 MLD),5.35,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1002,12.853834,77.462344,767250.0,1422250.0,7.5,,0.0,,,2.55,0.0,1379.0,48.0,Doddabele STP (40 MLD),5.17,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1102,12.853791,77.466948,767750.0,1422250.0,7.32,,0.0,,0.0,2.49,0.0,1532.0,159.0,Doddabele STP (40 MLD),5.04,geology missing/partial (outside Bhukosh sheet 57H09)
+G1202,12.853748,77.471552,768250.0,1422250.0,7.17,,0.0,,0.0,2.04,0.0,1813.0,180.0,Doddabele STP (40 MLD),4.96,geology missing/partial (outside Bhukosh sheet 57H09)
+G1302,12.853704,77.476156,768750.0,1422250.0,7.06,,0.0,,0.0,1.1,0.0,2173.0,164.0,Doddabele STP (40 MLD),4.92,geology missing/partial (outside Bhukosh sheet 57H09)
+G1402,12.853661,77.480759,769250.0,1422250.0,6.97,,0.0,,0.0,2.82,0.0,2579.0,27.0,Doddabele STP (40 MLD),4.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1502,12.853617,77.485363,769750.0,1422250.0,6.92,,0.0,,0.0,0.25,0.0,2918.0,315.0,Doddabele STP (40 MLD),5.0,geology missing/partial (outside Bhukosh sheet 57H09)
+G1602,12.853573,77.489967,770250.0,1422250.0,6.91,,0.0,,0.0,2.43,0.0,3143.0,47.0,Doddabele STP (40 MLD),5.11,geology missing/partial (outside Bhukosh sheet 57H09)
+G1702,12.85353,77.494571,770750.0,1422250.0,6.94,,0.0,,0.0,2.42,0.0,3424.0,139.0,Doddabele STP (40 MLD),5.27,geology missing/partial (outside Bhukosh sheet 57H09)
+G1802,12.853486,77.499174,771250.0,1422250.0,7.0,Grey Hornblende Biotite Gneiss,32.1,FALSE,0.0,2.14,0.0,3749.0,179.0,Doddabele STP (40 MLD),5.47,geology partial
+G1902,12.853442,77.503778,771750.0,1422250.0,7.09,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,3.89,0.0,3540.0,195.0,Doddabele STP (40 MLD),5.71,
+G2002,12.853398,77.508382,772250.0,1422250.0,7.22,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,3.82,0.0,3123.0,150.0,Doddabele STP (40 MLD),5.98,
+G2102,12.853354,77.512985,772750.0,1422250.0,7.38,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,3.3,0.0,2696.0,152.0,Doddabele STP (40 MLD),6.27,
+G2202,12.85331,77.517589,773250.0,1422250.0,7.57,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,3.27,0.0,2290.0,148.0,Doddabele STP (40 MLD),6.6,
+G2302,12.853266,77.522193,773750.0,1422250.0,7.78,Grey Hornblende Biotite Gneiss,100.0,FALSE,15.1,0.46,0.0,1921.0,277.0,Doddabele STP (40 MLD),6.94,
+G1001,12.849317,77.4623,767250.0,1421750.0,7.97,,0.0,,,1.34,0.0,1874.0,200.0,Doddabele STP (40 MLD),5.65,geology missing/partial (outside Bhukosh sheet 57H09); outside built-up layer extent
+G1101,12.849274,77.466904,767750.0,1421750.0,7.8,,0.0,,0.0,5.2,0.0,1990.0,70.0,Doddabele STP (40 MLD),5.53,geology missing/partial (outside Bhukosh sheet 57H09)
+G1201,12.84923,77.471508,768250.0,1421750.0,7.66,,0.0,,0.0,2.48,0.0,2215.0,30.0,Doddabele STP (40 MLD),5.45,geology missing/partial (outside Bhukosh sheet 57H09)
+G1301,12.849187,77.476111,768750.0,1421750.0,7.55,,0.0,,0.0,0.09,0.0,2518.0,320.0,Doddabele STP (40 MLD),5.42,geology missing/partial (outside Bhukosh sheet 57H09)
+G1401,12.849143,77.480715,769250.0,1421750.0,7.47,,0.0,,0.0,4.3,0.0,2878.0,207.0,Doddabele STP (40 MLD),5.43,geology missing/partial (outside Bhukosh sheet 57H09)
+G1501,12.8491,77.485319,769750.0,1421750.0,7.42,,0.0,,0.0,3.17,0.0,3273.0,143.0,Doddabele STP (40 MLD),5.49,geology missing/partial (outside Bhukosh sheet 57H09)
+G1601,12.849056,77.489922,770250.0,1421750.0,7.41,,0.0,,0.0,4.19,0.0,3581.0,96.0,Doddabele STP (40 MLD),5.6,geology missing/partial (outside Bhukosh sheet 57H09)
+G1701,12.849013,77.494526,770750.0,1421750.0,7.43,,0.0,,0.0,2.42,0.0,3833.0,214.0,Doddabele STP (40 MLD),5.74,geology missing/partial (outside Bhukosh sheet 57H09)
+G1801,12.848969,77.49913,771250.0,1421750.0,7.49,Grey Hornblende Biotite Gneiss,31.1,FALSE,0.0,3.85,0.0,3735.0,22.0,Doddabele STP (40 MLD),5.92,geology partial
+G1901,12.848925,77.503733,771750.0,1421750.0,7.58,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,2.81,0.0,3284.0,1.0,Doddabele STP (40 MLD),6.14,
+G2001,12.848881,77.508337,772250.0,1421750.0,7.7,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,3.39,0.0,2848.0,28.0,Doddabele STP (40 MLD),6.39,
+G2101,12.848837,77.51294,772750.0,1421750.0,7.85,Grey Hornblende Biotite Gneiss,100.0,FALSE,0.0,1.02,0.0,2437.0,224.0,Doddabele STP (40 MLD),6.67,
+G1400,12.844626,77.480671,769250.0,1421250.0,7.97,,0.0,,0.0,4.04,0.0,3225.0,108.0,Doddabele STP (40 MLD),5.93,geology missing/partial (outside Bhukosh sheet 57H09)
+G1500,12.844583,77.485274,769750.0,1421250.0,7.92,,0.0,,0.0,1.93,0.0,3583.0,131.0,Doddabele STP (40 MLD),5.99,geology missing/partial (outside Bhukosh sheet 57H09)
+G1600,12.844539,77.489878,770250.0,1421250.0,7.91,,0.0,,0.0,0.88,0.0,3971.0,233.0,Doddabele STP (40 MLD),6.08,geology missing/partial (outside Bhukosh sheet 57H09)
+G1700,12.844495,77.494481,770750.0,1421250.0,7.93,,0.0,,0.0,3.09,0.0,4046.0,110.0,Doddabele STP (40 MLD),6.21,geology missing/partial (outside Bhukosh sheet 57H09)
+G1800,12.844452,77.499085,771250.0,1421250.0,7.98,Grey Hornblende Biotite Gneiss,30.1,FALSE,0.0,2.1,0.0,3564.0,133.0,Doddabele STP (40 MLD),6.38,geology partial
