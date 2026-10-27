@@ -9,3 +9,7 @@ data/processed/*
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
+
+# Local groundwater source data and backups
+/groundwater-level-collected-manually.csv
+*.csv.bak

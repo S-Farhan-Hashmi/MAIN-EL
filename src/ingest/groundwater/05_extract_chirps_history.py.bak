@@ -1,0 +1,125 @@
+from pathlib import Path
+import gzip
+import shutil
+import tempfile
+import requests
+import rasterio
+import numpy as np
+import pandas as pd
+
+ROOT = Path.cwd()
+STATIONS_FILE = ROOT / "data/processed/groundwater/gw_tidy.csv"
+OUT_FILE = ROOT / "data/processed/groundwater/chirps_monthly_2010_2024.csv"
+
+START_YEAR = 2010
+END_YEAR = 2024
+BASE_URL = (
+    "https://data.chc.ucsb.edu/products/CHIRPS-2.0/"
+    "global_monthly/tifs"
+)
+
+df = pd.read_csv(STATIONS_FILE)
+
+required = {"station_id", "station_name", "lat", "lon"}
+missing = required - set(df.columns)
+if missing:
+    raise ValueError(f"Missing station columns: {sorted(missing)}")
+
+stations = df[
+    ["station_id", "station_name", "lat", "lon"]
+].drop_duplicates("station_id").reset_index(drop=True)
+
+print(f"Stations: {len(stations)}")
+print(f"Period: {START_YEAR}-01 to {END_YEAR}-12")
+print(f"Expected records: {len(stations) * (END_YEAR - START_YEAR + 1) * 12}")
+
+OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+rows = []
+failures = []
+
+with requests.Session() as session:
+    for year in range(START_YEAR, END_YEAR + 1):
+        for month in range(1, 13):
+            name = f"chirps-v2.0.{year}.{month:02d}.tif"
+            url = f"{BASE_URL}/{name}.gz"
+            print(f"Processing {year}-{month:02d}...", flush=True)
+
+            try:
+                response = session.get(url, timeout=(20, 180))
+                response.raise_for_status()
+
+                with tempfile.TemporaryDirectory() as tmp:
+                    gz_path = Path(tmp) / f"{name}.gz"
+                    tif_path = Path(tmp) / name
+                    gz_path.write_bytes(response.content)
+
+                    with gzip.open(gz_path, "rb") as src:
+                        with open(tif_path, "wb") as dst:
+                            shutil.copyfileobj(src, dst)
+
+                    with rasterio.open(tif_path) as raster:
+                        coords = list(zip(stations["lon"], stations["lat"]))
+                        samples = list(raster.sample(coords, masked=True))
+
+                        for (_, station), sample in zip(
+                            stations.iterrows(), samples
+                        ):
+                            value = float(sample[0])
+                            invalid = (
+                                np.ma.is_masked(sample[0])
+                                or not np.isfinite(value)
+                                or value < 0
+                            )
+
+                            rows.append({
+                                "station_id": station["station_id"],
+                                "station_name": station["station_name"],
+                                "lat": station["lat"],
+                                "lon": station["lon"],
+                                "year": year,
+                                "month": month,
+                                "rainfall_mm": np.nan if invalid else value,
+                                "source": "CHIRPS v2.0 global monthly GeoTIFF",
+                                "is_imputed": False,
+                                "is_valid": not invalid,
+                            })
+
+            except Exception as exc:
+                failures.append({
+                    "year": year,
+                    "month": month,
+                    "error": str(exc),
+                })
+                for _, station in stations.iterrows():
+                    rows.append({
+                        "station_id": station["station_id"],
+                        "station_name": station["station_name"],
+                        "lat": station["lat"],
+                        "lon": station["lon"],
+                        "year": year,
+                        "month": month,
+                        "rainfall_mm": np.nan,
+                        "source": "CHIRPS v2.0 global monthly GeoTIFF",
+                        "is_imputed": False,
+                        "is_valid": False,
+                    })
+                print(f"  FAILED: {exc}", flush=True)
+
+            # Save progress after every month so an interruption
+            # doesn't lose the completed months.
+            pd.DataFrame(rows).to_csv(OUT_FILE, index=False)
+
+result = pd.DataFrame(rows)
+print("\n=== EXTRACTION SUMMARY ===")
+print("Output:", OUT_FILE)
+print("Rows:", len(result))
+print("Valid values:", int(result["is_valid"].sum()))
+print("Invalid/missing values:", int((~result["is_valid"]).sum()))
+print("Failed months:", len(failures))
+print("Unique stations:", result["station_id"].nunique())
+print("Date range:", f"{START_YEAR}-01 to {END_YEAR}-12")
+
+if failures:
+    failure_file = OUT_FILE.with_name("chirps_failed_months.csv")
+    pd.DataFrame(failures).to_csv(failure_file, index=False)
+    print("Failed-month log:", failure_file)
