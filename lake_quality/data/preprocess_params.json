@@ -1,0 +1,53 @@
+{
+  "keep_params": [
+    "temperature_c",
+    "do_mgl",
+    "ph",
+    "conductivity",
+    "bod_mgl",
+    "nitrate_n",
+    "fecal_coliform",
+    "total_coliform",
+    "turbidity_ntu",
+    "cod_mgl",
+    "ammonia_n",
+    "chloride",
+    "tds",
+    "tss",
+    "total_phosphate",
+    "ortho_phosphate"
+  ],
+  "medians": {
+    "temperature_c": 26.0,
+    "do_mgl": 5.0,
+    "ph": 7.4,
+    "conductivity": 712.0,
+    "bod_mgl": 7.0,
+    "nitrate_n": 2.7,
+    "fecal_coliform": 320.0,
+    "total_coliform": 3500.0,
+    "turbidity_ntu": 14.2,
+    "cod_mgl": 80.0,
+    "ammonia_n": 0.6,
+    "chloride": 104.0,
+    "tds": 480.0,
+    "tss": 22.0,
+    "total_phosphate": 0.335,
+    "ortho_phosphate": 0.6
+  },
+  "flag_cols": [
+    "temperature_c",
+    "do_mgl",
+    "conductivity",
+    "turbidity_ntu",
+    "ammonia_n",
+    "chloride",
+    "tds",
+    "tss",
+    "total_phosphate",
+    "ortho_phosphate"
+  ],
+  "keep_2023": false,
+  "keep_no_coords": false,
+  "max_missing": 0.3
+}
