@@ -2,9 +2,18 @@
 gee_ndvi_soilmoisture.py
 ------------------------
 Extracts NDVI (Sentinel-2 + MODIS gap-fill) and ERA5-Land soil-moisture for
-every watershed polygon in the pilot corridor, then exports per-watershed CSVs.
+every locality polygon in the pilot corridor, then exports per-locality CSVs.
 
 Pilot corridor bbox:  12.78-12.95 degN,  77.38-77.55 degE  (Bengaluru South fringe)
+
+ERA5 note
+---------
+ERA5-Land has ~9-11 km (0.1 deg) resolution.  Locality polygons smaller than
+one ERA5 pixel (LOC_01, LOC_02 at ~1.6-1.8 km²) return null from reduceRegions
+because no pixel centroid falls inside the polygon.  This script works around
+that by always sampling ERA5 at the locality centroid point (guaranteed to hit
+a pixel), and falls back to polygon-mean for larger localities where it is
+available.  The sampling method used is recorded in the `sm_method` column.
 
 Usage
 -----
@@ -118,7 +127,7 @@ def get_era5_soilmoisture(
 
 
 # ---------------------------------------------------------------------------
-# Reduce an ImageCollection over each watershed polygon
+# Reduce an ImageCollection over each watershed / locality polygon
 # ---------------------------------------------------------------------------
 def reduce_collection_over_watersheds(
     collection: ee.ImageCollection,
@@ -142,6 +151,99 @@ def reduce_collection_over_watersheds(
     return collection.map(reduce_image).flatten()
 
 
+# ---------------------------------------------------------------------------
+# ERA5 extractor with centroid-point fallback
+# ---------------------------------------------------------------------------
+def reduce_era5_over_localities(
+    collection: ee.ImageCollection,
+    gdf,                          # geopandas GeoDataFrame
+    band_name: str,
+    scale: int,
+) -> pd.DataFrame:
+    """
+    For each locality, sample ERA5 at its centroid point (always returns a
+    value, even for polygons smaller than one ERA5 pixel).  Also attempt a
+    polygon-mean; where the polygon-mean is non-null it takes precedence.
+    Records which method was used in the `sm_method` column.
+    """
+    import shapely.geometry as sg
+
+    # Build a FeatureCollection of centroid points
+    centroid_features = []
+    for _, row in gdf.iterrows():
+        centroid = row.geometry.centroid
+        centroid_features.append(
+            ee.Feature(
+                ee.Geometry.Point([centroid.x, centroid.y]),
+                {"watershed_id": row["watershed_id"]},
+            )
+        )
+    centroid_fc = ee.FeatureCollection(centroid_features)
+
+    # Build a FeatureCollection of polygons (for polygon-mean attempt)
+    poly_features = [
+        ee.Feature(
+            ee.Geometry.Polygon(list(row.geometry.__geo_interface__["coordinates"])),
+            {"watershed_id": row["watershed_id"]},
+        )
+        for _, row in gdf.iterrows()
+    ]
+    poly_fc = ee.FeatureCollection(poly_features)
+
+    all_rows: list[dict] = []
+
+    images = collection.toList(collection.size())
+    n = collection.size().getInfo()
+    for i in range(n):
+        img = ee.Image(images.get(i))
+        date_str = ee.Date(img.get("system:time_start")).format("YYYY-MM-dd").getInfo()
+        img_band = img.select(band_name)
+
+        # --- centroid sample (always works) ---
+        sampled = img_band.sampleRegions(
+            collection=centroid_fc,
+            scale=scale,
+            geometries=False,
+        ).getInfo()["features"]
+        centroid_vals = {
+            f["properties"]["watershed_id"]: f["properties"].get(band_name)
+            for f in sampled
+        }
+
+        # --- polygon mean (may return null for tiny polygons) ---
+        reduced = img_band.reduceRegions(
+            collection=poly_fc,
+            reducer=ee.Reducer.mean().setOutputs([band_name]),
+            scale=scale,
+        ).getInfo()["features"]
+        poly_vals = {
+            f["properties"]["watershed_id"]: f["properties"].get(band_name)
+            for f in reduced
+        }
+
+        for _, row in gdf.iterrows():
+            wid = row["watershed_id"]
+            poly_v = poly_vals.get(wid)
+            cent_v = centroid_vals.get(wid)
+            if poly_v is not None:
+                sm_val = poly_v
+                method = "polygon_mean"
+            elif cent_v is not None:
+                sm_val = cent_v
+                method = "centroid_point"
+            else:
+                sm_val = None
+                method = "missing"
+            all_rows.append({
+                "watershed_id": wid,
+                "date": date_str,
+                band_name: sm_val,
+                "sm_method": method,
+            })
+
+    return pd.DataFrame(all_rows)
+
+
 def fc_to_dataframe(fc: ee.FeatureCollection, columns: list[str]) -> pd.DataFrame:
     features = fc.select(columns).getInfo()["features"]
     rows = [f["properties"] for f in features]
@@ -154,7 +256,7 @@ def fc_to_dataframe(fc: ee.FeatureCollection, columns: list[str]) -> pd.DataFram
 def run(start: str, end: str, out_dir: Path, watersheds_path: Path,
         cloud_pct: int) -> None:
     try:
-        ee.Initialize(project=os.environ.get("GEE_PROJECT", "ee-pilot-corridor"))
+        ee.Initialize(project=os.environ.get("GEE_PROJECT", "excellent-hue-480109-m8"))
     except ee.EEException:
         print("[INFO] Triggering interactive authentication...")
         ee.Authenticate()
@@ -210,18 +312,23 @@ def run(start: str, end: str, out_dir: Path, watersheds_path: Path,
     modis_df.to_csv(modis_path, index=False)
     print(f"    -> {modis_path}  ({len(modis_df)} rows)")
 
-    # ERA5-Land soil moisture
-    print("[3/3] Fetching ERA5-Land soil moisture...")
-    era5_fc = reduce_collection_over_watersheds(
+    # ERA5-Land soil moisture (centroid-fallback for tiny locality polygons)
+    print("[3/3] Fetching ERA5-Land soil moisture (with centroid fallback for small polygons)...")
+    era5_df = reduce_era5_over_localities(
         get_era5_soilmoisture(bbox_geom, start, end),
-        watersheds_fc, "SM_ERA5", DEFAULT_SCALE_ERA5,
+        gdf, "SM_ERA5", DEFAULT_SCALE_ERA5,
     )
-    era5_df = fc_to_dataframe(era5_fc, ["watershed_id", "date", "SM_ERA5"])
     era5_df["data_source"] = "ERA5-Land daily"
-    era5_df["note"] = "Model-based; coarser than watersheds - adjacent polygons share values"
+    era5_df["note"] = ("Model-based reanalysis; polygon_mean used where polygon > ERA5 pixel, "
+                       "centroid_point used for small locality polygons (LOC_01, LOC_02).")
     era5_path = out_dir / "soilmoisture_era5.csv"
     era5_df.to_csv(era5_path, index=False)
-    print(f"    -> {era5_path}  ({len(era5_df)} rows)")
+    missing = era5_df["SM_ERA5"].isna().sum()
+    print(f"    -> {era5_path}  ({len(era5_df)} rows, {missing} still missing)")
+    if missing:
+        print(f"    [WARN] {missing} rows still null after centroid fallback.")
+    method_counts = era5_df["sm_method"].value_counts().to_dict()
+    print(f"    Sampling methods used: {method_counts}")
 
     print("\n[DONE] All CSVs written to", out_dir)
 
