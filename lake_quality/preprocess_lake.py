@@ -93,7 +93,8 @@ def basic_cleaning(d, log):
 def build_features(d, keep_params, medians, flag_cols):
     out = pd.DataFrame({"date": d["date"], "lake_id": d["lake_id"], "year": d["year"], "month": d["month"]})
     out["lat"], out["lon"] = d["lat"], d["lon"]
-    out["is_class_E"] = d["is_class_E"]
+    # NOTE: the KSPCB use-based class is NOT a feature. It is assigned from that month's measured
+    # DO/BOD (class E whenever DO < 3, never when DO >= 4), so it would leak the target.
     out["month_sin"] = np.sin(2 * np.pi * d["month"] / 12)
     out["month_cos"] = np.cos(2 * np.pi * d["month"] / 12)
     out["log_pop_1km"] = np.log10(d["pop_1km"] + 1)
